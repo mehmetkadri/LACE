@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Component ablation per-dataset Time/Item (cs) values. Lower values are better.}
+\label{tab:per-data-component-ablation-time-per-item-cs}
+\begin{tabular}{ccrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr}
+\toprule
+Monte Carlo & NVI & Tau & Birds & Water-qual & Gnegative & Langlog & Human & Slashdot & Eukaryote & OHSUMED-F & Synthetic\_Sudden1 & Synthetic\_Sudden2 & Synthetic\_Sudden3 & Synthetic\_Incremental1 & Synthetic\_Incremental2 & Synthetic\_Incremental3 & Synthetic\_Reoccurring & tmc2007-500 & Mediamill & Imdb & Emotions & VirusGO & Flags & Scene & Genbase & Medical & Corel5k & Stackex & CHD49 & Corel16k & Yahoo-com \\
+\midrule
+$\checkmark$ & $\checkmark$ & $\times$ & 0.76 & 0.76 & 0.70 & 5.08 & 1.15 & 1.87 & \underline{1.55} & 1.89 & 4.14 & 6.13 & 3.41 & 3.45 & 3.46 & 3.52 & 3.51 & 1.84 & 6.97 & 2.30 & 0.54 & 0.49 & \underline{0.40} & \underline{0.53} & \underline{2.13} & \underline{3.57} & 28.13 & 17.18 & 0.55 & 18.39 & 7.73 \\
+$\checkmark$ & $\times$ & $\times$ & 0.76 & \underline{0.75} & 0.70 & \textbf{4.83} & 1.16 & 1.88 & 1.59 & 1.98 & 4.01 & 3.49 & 5.33 & 3.47 & 3.53 & 3.48 & 3.47 & 1.84 & 7.00 & 2.28 & 0.54 & \underline{0.47} & 0.41 & \underline{0.53} & \underline{2.13} & 3.59 & 27.97 & \underline{16.36} & 0.54 & 17.04 & 10.16 \\
+$\times$ & $\checkmark$ & 0.10 & 0.74 & \textbf{0.74} & \textbf{0.58} & 4.93 & 1.06 & 1.70 & \textbf{1.54} & \textbf{1.77} & 6.18 & \underline{3.34} & 5.92 & 3.37 & \textbf{3.35} & \textbf{3.37} & 5.28 & \textbf{1.65} & 6.89 & 3.37 & \underline{0.38} & 0.49 & \textbf{0.39} & \textbf{0.46} & \underline{2.13} & \textbf{3.56} & 27.74 & \textbf{16.30} & 0.57 & 21.85 & 10.50 \\
+$\times$ & $\checkmark$ & 0.25 & 0.77 & 0.78 & 0.60 & \underline{4.84} & 1.14 & 1.80 & 1.73 & 2.09 & \textbf{3.28} & 5.00 & \textbf{3.24} & 7.10 & 3.38 & 4.55 & 3.33 & 3.21 & 12.21 & 4.29 & \underline{0.38} & \underline{0.47} & \underline{0.40} & \textbf{0.46} & 2.19 & \underline{3.57} & 40.95 & 16.86 & 0.57 & \textbf{11.37} & 9.71 \\
+$\times$ & $\checkmark$ & 0.35 & 0.75 & \textbf{0.74} & 0.66 & 4.88 & 1.04 & 1.70 & 1.56 & \underline{1.78} & 3.37 & 5.60 & \underline{3.27} & 5.53 & 5.13 & 3.41 & \textbf{3.31} & 1.70 & 12.54 & 3.36 & \textbf{0.37} & \underline{0.47} & \textbf{0.39} & \textbf{0.46} & 2.18 & \textbf{3.56} & 41.11 & 17.22 & 0.56 & 17.19 & \underline{7.71} \\
+$\times$ & $\checkmark$ & 0.50 & \underline{0.73} & \textbf{0.74} & 0.60 & 5.61 & 1.05 & \textbf{1.63} & 1.61 & 2.11 & \underline{3.36} & 3.37 & 3.93 & \textbf{3.34} & 4.66 & \underline{3.39} & 4.97 & \underline{1.69} & \underline{6.75} & \textbf{2.16} & \underline{0.38} & 0.50 & \underline{0.40} & \textbf{0.46} & 2.17 & 3.63 & 27.69 & 17.34 & 0.58 & 11.59 & 9.84 \\
+$\times$ & $\times$ & 0.10 & 0.77 & 0.76 & 0.60 & 4.96 & 1.04 & 1.70 & 1.58 & 1.82 & 6.18 & 3.36 & 5.51 & 5.51 & 4.91 & 4.99 & 3.37 & 2.78 & 6.89 & 3.71 & \underline{0.38} & 0.50 & \textbf{0.39} & \textbf{0.46} & 2.19 & 3.60 & \underline{27.63} & 24.51 & 0.56 & 11.53 & 13.27 \\
+$\times$ & $\times$ & 0.25 & 0.83 & 0.85 & 0.61 & 4.92 & 1.14 & \underline{1.65} & \textbf{1.54} & 1.83 & 3.40 & \underline{3.34} & 3.29 & 5.44 & 3.39 & 4.48 & 4.96 & 2.69 & 11.41 & \textbf{2.16} & \underline{0.38} & 0.49 & \underline{0.40} & \textbf{0.46} & 2.15 & 3.60 & 42.13 & 23.18 & \underline{0.36} & \underline{11.43} & 12.78 \\
+$\times$ & $\times$ & 0.35 & 0.77 & 0.79 & \underline{0.59} & 4.93 & \underline{1.03} & 1.69 & 1.57 & \textbf{1.77} & 3.39 & \textbf{3.33} & 5.06 & \underline{3.35} & 5.31 & 5.02 & 5.22 & 1.72 & 11.06 & \textbf{2.16} & \underline{0.38} & 0.49 & \textbf{0.39} & \textbf{0.46} & \textbf{2.12} & 3.60 & \textbf{27.25} & 17.38 & \underline{0.36} & 11.44 & \textbf{6.04} \\
+$\times$ & $\times$ & 0.50 & \textbf{0.71} & 0.84 & 0.62 & 4.94 & \textbf{1.02} & 1.66 & 1.63 & 3.44 & 5.97 & 3.40 & 3.32 & 3.39 & \underline{3.36} & \textbf{3.37} & \underline{3.32} & 2.85 & \textbf{6.74} & \underline{2.17} & \underline{0.38} & \textbf{0.46} & \underline{0.40} & \textbf{0.46} & 2.14 & 3.61 & 27.64 & 17.55 & \textbf{0.35} & 11.66 & 11.73 \\
+\bottomrule
+\end{tabular}
+\end{table}

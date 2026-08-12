@@ -1,0 +1,27 @@
+\begin{table}
+\caption{Baseline per-dataset Time/Item (cs) values. Lower values are better.}
+\label{tab:per-data-baseline-time-per-item-cs}
+\begin{tabular}{lrrrrrrrrrrrrrrrrrrrrrrrrrrrrr}
+\toprule
+Method & Birds & Water-qual & Gnegative & Langlog & Human & Slashdot & Eukaryote & OHSUMED-F & Synthetic\_Sudden1 & Synthetic\_Sudden2 & Synthetic\_Sudden3 & Synthetic\_Incremental1 & Synthetic\_Incremental2 & Synthetic\_Incremental3 & Synthetic\_Reoccurring & tmc2007-500 & Mediamill & Imdb & Emotions & VirusGO & Flags & Scene & Genbase & Medical & Corel5k & Stackex & CHD49 & Corel16k & Yahoo-com \\
+\midrule
+\textbf{LACE} & 0.77 & 0.82 & 0.69 & 7.50 & 1.93 & 1.82 & \textbf{1.51} & 3.69 & 4.14 & 3.61 & 3.51 & 3.94 & 3.94 & 3.90 & 4.79 & 2.08 & 6.60 & 2.27 & 0.87 & \textbf{0.51} & 0.83 & \textbf{0.52} & \textbf{2.76} & 3.58 & 43.07 & 21.98 & \underline{0.36} & 11.28 & 9.42 \\
+ADWIN & 0.74 & \textbf{0.73} & 0.59 & 4.61 & 1.00 & 1.62 & 1.95 & 2.89 & \underline{2.98} & \textbf{3.10} & 4.81 & 5.38 & 3.16 & 3.16 & 3.18 & \underline{1.56} & 8.88 & 2.08 & \textbf{0.54} & 0.71 & 0.75 & 0.69 & 3.23 & 5.35 & 37.08 & \textbf{16.07} & \underline{0.36} & 19.89 & \textbf{7.57} \\
+DDM & 0.76 & \underline{0.74} & \underline{0.56} & 4.45 & 1.01 & 1.64 & 1.76 & 1.73 & 3.00 & 3.19 & \underline{3.05} & 3.18 & 3.24 & 3.19 & 3.16 & 2.43 & 6.61 & \textbf{2.04} & 0.66 & \underline{0.69} & 0.89 & 0.69 & 3.49 & 3.59 & 27.88 & 16.59 & 0.65 & 11.18 & 9.61 \\
+EDDM & 0.75 & \underline{0.74} & 0.57 & \underline{4.44} & \underline{0.99} & \textbf{1.59} & \underline{1.52} & \textbf{1.69} & 4.76 & 3.18 & \underline{3.05} & 4.50 & \textbf{3.12} & 4.22 & 4.76 & \underline{1.56} & 10.15 & 2.09 & 0.62 & 0.71 & 0.77 & 0.79 & 3.22 & 5.09 & 40.44 & \underline{16.42} & \underline{0.36} & 11.09 & 7.86 \\
+FHDDM & 0.73 & \underline{0.74} & 0.58 & 4.83 & \underline{0.99} & 1.67 & 1.54 & 1.75 & 3.14 & 5.83 & 3.06 & \underline{3.10} & 3.15 & \textbf{3.11} & \textbf{3.13} & \textbf{1.55} & 6.67 & 2.99 & 0.61 & 0.78 & 0.83 & 0.68 & 3.19 & 3.55 & 27.23 & 16.62 & 0.62 & 11.40 & \underline{7.60} \\
+FHDDMS & 0.74 & 0.75 & 0.59 & 4.56 & \underline{0.99} & 1.65 & 1.55 & \underline{1.70} & 3.08 & 3.14 & 3.09 & 3.13 & 5.76 & 3.13 & 4.73 & 2.34 & 6.76 & 2.90 & 0.63 & 0.83 & \textbf{0.67} & 0.82 & 3.10 & 3.54 & \textbf{27.04} & 17.08 & \textbf{0.35} & 11.18 & 13.78 \\
+FHDDMS\_add & 0.73 & \textbf{0.73} & 0.59 & 4.83 & 1.00 & 1.72 & 1.54 & 1.77 & 3.15 & 3.14 & 4.22 & 3.13 & 4.59 & 4.51 & 5.04 & \underline{1.56} & 6.68 & 3.18 & 0.63 & 0.76 & 0.85 & 0.72 & 3.47 & 4.78 & \underline{27.10} & 16.74 & 0.37 & 11.17 & 9.86 \\
+HDDM\_A & 0.73 & 0.82 & \underline{0.56} & 5.18 & 1.11 & \underline{1.60} & 1.53 & 2.57 & \underline{2.98} & 3.13 & 3.07 & \textbf{3.06} & 4.62 & 4.50 & 4.33 & 2.22 & \textbf{6.46} & 2.07 & 0.61 & 0.71 & 0.87 & 0.65 & 3.38 & 5.58 & 43.76 & 16.68 & 0.55 & \textbf{11.01} & 9.49 \\
+HDDM\_W & 0.82 & \underline{0.74} & \textbf{0.55} & \textbf{4.41} & 1.00 & 1.83 & 2.10 & 2.51 & 6.60 & 3.13 & 4.88 & 5.05 & 3.16 & 3.13 & \underline{3.15} & \underline{1.56} & 10.72 & \textbf{2.04} & \underline{0.60} & 0.71 & 0.78 & \underline{0.57} & \underline{3.02} & 4.57 & 37.60 & 16.53 & \textbf{0.35} & 17.33 & 10.23 \\
+KSWIN & 0.76 & 0.75 & 0.63 & 4.66 & 1.04 & 1.63 & 1.63 & 1.73 & 3.01 & 5.65 & 3.09 & 4.67 & 3.17 & 4.87 & 3.20 & 1.62 & 6.57 & \underline{2.06} & 0.65 & 0.75 & 0.82 & 0.80 & 3.20 & 5.17 & 27.47 & 16.60 & 0.37 & 16.89 & 9.09 \\
+LD3 & 0.83 & 0.75 & 0.59 & 4.76 & 1.12 & 1.76 & 1.95 & 1.90 & 3.40 & 3.46 & 5.96 & 3.44 & 5.59 & 3.55 & 5.23 & 1.73 & 13.96 & 3.48 & 0.62 & 0.72 & 0.76 & 0.75 & 3.36 & 5.53 & 71.03 & 22.62 & \textbf{0.35} & 16.67 & 10.08 \\
+MDDM\_A & \textbf{0.71} & 0.75 & 0.58 & 4.51 & 1.00 & 1.71 & 1.56 & \underline{1.70} & 3.19 & 3.16 & 3.13 & 3.16 & 3.15 & 3.15 & 3.24 & 2.11 & 6.66 & 3.08 & 0.64 & 0.82 & \underline{0.71} & 0.88 & 3.29 & 5.37 & 55.94 & 16.56 & \underline{0.36} & 17.75 & 13.11 \\
+MDDM\_E & 0.73 & \textbf{0.73} & 0.60 & 4.87 & 1.01 & 1.62 & 2.60 & 2.32 & 6.37 & 3.13 & 5.29 & 4.71 & 3.14 & 4.15 & 3.17 & \underline{1.56} & 12.47 & \underline{2.06} & 0.61 & \underline{0.69} & 0.82 & 0.75 & 3.67 & 5.92 & 45.19 & 26.30 & 0.64 & \underline{11.06} & 9.48 \\
+MDDM\_G & \underline{0.72} & 0.82 & 0.62 & 4.54 & 1.00 & 1.64 & 2.60 & 2.27 & 3.13 & 3.13 & 4.47 & 3.19 & 4.75 & 3.14 & \textbf{3.13} & 2.36 & 10.55 & 2.08 & 0.63 & 0.81 & 0.75 & 0.87 & 3.29 & \textbf{3.42} & 44.52 & 16.96 & \underline{0.36} & 21.09 & 8.51 \\
+ND & \underline{0.72} & \underline{0.74} & 0.60 & 5.02 & 1.00 & 1.91 & 3.51 & \underline{1.70} & 3.11 & 4.89 & 3.16 & 3.12 & 4.81 & 3.13 & 4.40 & \underline{1.56} & \underline{6.50} & \textbf{2.04} & 0.63 & 0.82 & 0.86 & 0.84 & 3.16 & \underline{3.45} & 27.15 & 16.74 & 0.65 & 17.11 & 12.51 \\
+RDDM & 0.75 & \textbf{0.73} & \textbf{0.55} & 4.63 & \textbf{0.97} & 1.64 & 1.54 & 3.14 & \textbf{2.96} & \underline{3.12} & 3.11 & \textbf{3.06} & 5.29 & \underline{3.12} & 4.72 & 1.61 & 6.54 & \underline{2.06} & 0.63 & \underline{0.69} & 0.83 & 0.80 & 3.61 & 5.09 & 27.24 & 16.82 & 0.65 & 15.85 & 8.28 \\
+SeqDrift2 & 0.78 & \textbf{0.73} & \underline{0.56} & 4.85 & 1.10 & 1.65 & 2.89 & 2.99 & 3.22 & 3.16 & \textbf{3.00} & 6.02 & \underline{3.13} & \underline{3.12} & 4.91 & 1.58 & 10.16 & 2.07 & 0.63 & 0.70 & 0.75 & 0.73 & 3.62 & \underline{3.45} & 43.41 & 16.65 & 0.59 & 18.33 & 14.58 \\
+\bottomrule
+\end{tabular}
+\end{table}

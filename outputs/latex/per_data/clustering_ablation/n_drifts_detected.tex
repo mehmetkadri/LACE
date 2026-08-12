@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Clustering ablation per-dataset \#Drifts values. Lower values are better.}
+\label{tab:per-data-clustering-ablation-n-drifts-detected}
+\begin{tabular}{lrrrrrrr}
+\toprule
+Clustering & Synthetic\_Sudden1 & Synthetic\_Sudden2 & Synthetic\_Sudden3 & Synthetic\_Incremental1 & Synthetic\_Incremental2 & Synthetic\_Incremental3 & Synthetic\_Reoccurring \\
+\midrule
+Agglomerative & \textbf{2.0000} & \textbf{2.0000} & \textbf{2.0000} & \textbf{2.0000} & \textbf{2.0000} & \textbf{2.0000} & \underline{9.0000} \\
+$C^3$M & \underline{46.0000} & \underline{42.0000} & \underline{45.0000} & \underline{41.0000} & \underline{45.0000} & \underline{41.0000} & 41.0000 \\
+KMeans & \textbf{2.0000} & \textbf{2.0000} & \textbf{2.0000} & \textbf{2.0000} & \textbf{2.0000} & \textbf{2.0000} & \textbf{0.0000} \\
+\bottomrule
+\end{tabular}
+\end{table}

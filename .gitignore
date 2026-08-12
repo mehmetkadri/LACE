@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+*/.DS_Store
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Generated outputs, except for predictions
+#outputs/*
+#!outputs/predictions/
+#!outputs/predictions/**
+
+# Docker/local artifacts
+*.tar
+
+# Large/raw temporary files
+*.log
+*.tmp

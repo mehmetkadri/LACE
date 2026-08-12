@@ -1,0 +1,27 @@
+\begin{table}
+\caption{Raw predictive effectiveness averages over retained real datasets. Higher values are better.}
+\label{tab:baseline_effectiveness_raw}
+\begin{tabular}{lllll}
+\toprule
+Method & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ \\
+\midrule
+\textbf{LACE} & 0.2284 & 0.6852 & 0.2969 & 0.2626 \\
+LD3 & \underline{0.2348} & 0.7083 & \underline{0.3045} & \textbf{0.2739} \\
+RDDM & \textbf{0.2375} & \underline{0.7126} & \textbf{0.3066} & 0.2615 \\
+ND & 0.2224 & \textbf{0.7127} & 0.2890 & \underline{0.2648} \\
+ADWIN & 0.2165 & 0.6931 & 0.2858 & 0.2560 \\
+FHDDMS\_add & 0.2131 & 0.6781 & 0.2814 & 0.2502 \\
+MDDM\_G & 0.2145 & 0.6761 & 0.2822 & 0.2498 \\
+MDDM\_E & 0.2145 & 0.6757 & 0.2821 & 0.2493 \\
+MDDM\_A & 0.2143 & 0.6765 & 0.2820 & 0.2496 \\
+FHDDM & 0.2108 & 0.6798 & 0.2777 & 0.2494 \\
+KSWIN & 0.2034 & 0.6692 & 0.2733 & 0.2481 \\
+FHDDMS & 0.2112 & 0.6709 & 0.2796 & 0.2466 \\
+SeqDrift2 & 0.2021 & 0.6505 & 0.2705 & 0.2415 \\
+HDDM\_W & 0.1963 & 0.6587 & 0.2667 & 0.2413 \\
+HDDM\_A & 0.1929 & 0.6421 & 0.2628 & 0.2376 \\
+EDDM & 0.1888 & 0.6344 & 0.2566 & 0.2362 \\
+DDM & 0.1620 & 0.5219 & 0.2244 & 0.2182 \\
+\bottomrule
+\end{tabular}
+\end{table}

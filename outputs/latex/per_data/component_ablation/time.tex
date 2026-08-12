@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Component ablation per-dataset Time values. Lower values are better.}
+\label{tab:per-data-component-ablation-time}
+\begin{tabular}{ccrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr}
+\toprule
+Monte Carlo & NVI & Tau & Birds & Water-qual & Gnegative & Langlog & Human & Slashdot & Eukaryote & OHSUMED-F & Synthetic\_Sudden1 & Synthetic\_Sudden2 & Synthetic\_Sudden3 & Synthetic\_Incremental1 & Synthetic\_Incremental2 & Synthetic\_Incremental3 & Synthetic\_Reoccurring & tmc2007-500 & Mediamill & Imdb & Emotions & VirusGO & Flags & Scene & Genbase & Medical & Corel5k & Stackex & CHD49 & Corel16k & Yahoo-com \\
+\midrule
+$\checkmark$ & $\checkmark$ & $\times$ & 4.93 & 8.08 & 9.74 & 74.16 & 35.85 & 70.68 & 120.35 & 263.28 & 828.88 & 1226.32 & 681.79 & 690.77 & 691.08 & 704.36 & 701.39 & 525.40 & 3059.33 & 2777.38 & 3.20 & 1.01 & 0.78 & 12.80 & 14.10 & 34.91 & 1406.70 & 287.79 & 3.02 & 2531.70 & 961.62 \\
+$\checkmark$ & $\times$ & $\times$ & 4.92 & 7.90 & 9.76 & \textbf{70.58} & 35.93 & 71.26 & 123.37 & 276.26 & 801.40 & 698.24 & 1065.61 & 693.96 & 706.14 & 696.93 & 694.06 & 525.28 & 3071.78 & 2756.56 & 3.20 & \underline{0.98} & 0.79 & 12.85 & 14.13 & 35.06 & 1398.33 & \underline{274.10} & 3.02 & 2346.07 & 1264.81 \\
+$\times$ & $\checkmark$ & 0.10 & 4.75 & \textbf{7.80} & \textbf{8.13} & 71.94 & 32.94 & 64.28 & \textbf{119.25} & \underline{247.18} & 1235.20 & \underline{667.62} & 1184.15 & 674.88 & \textbf{669.30} & \textbf{673.53} & 1055.39 & \textbf{471.43} & 3025.28 & 4076.52 & 2.26 & 1.02 & \textbf{0.75} & 11.06 & \underline{14.07} & \textbf{34.78} & 1387.06 & \textbf{272.96} & 3.17 & 3008.01 & 1306.09 \\
+$\times$ & $\checkmark$ & 0.25 & 4.94 & 8.24 & 8.34 & \underline{70.70} & 35.54 & 68.18 & 134.23 & 291.68 & \textbf{656.31} & 999.23 & \textbf{648.22} & 1420.38 & 675.11 & 910.26 & 665.19 & 918.73 & 5360.42 & 5183.36 & 2.26 & \textbf{0.96} & 0.78 & 11.06 & 14.48 & \underline{34.90} & 2047.41 & 282.35 & 3.15 & \textbf{1565.85} & 1208.24 \\
+$\times$ & $\checkmark$ & 0.35 & 4.83 & \underline{7.85} & 9.19 & 71.24 & 32.31 & 64.18 & 121.18 & 248.29 & 674.47 & 1120.28 & \underline{654.55} & 1106.80 & 1025.34 & 681.29 & \textbf{661.61} & 486.97 & 5507.06 & 4064.77 & \textbf{2.22} & \textbf{0.96} & \textbf{0.75} & 11.13 & 14.44 & \textbf{34.78} & 2055.65 & 288.35 & 3.10 & 2366.72 & \underline{959.83} \\
+$\times$ & $\checkmark$ & 0.50 & \underline{4.72} & 7.86 & 8.36 & 81.85 & 32.62 & \textbf{61.70} & 125.13 & 294.42 & \underline{671.54} & 673.89 & 786.44 & \textbf{667.54} & 932.52 & 678.77 & 993.17 & \underline{482.22} & \underline{2965.77} & 2617.29 & \underline{2.24} & 1.04 & 0.78 & 11.16 & 14.34 & 35.54 & 1384.60 & 290.40 & 3.19 & 1595.42 & 1223.92 \\
+$\times$ & $\times$ & 0.10 & 4.95 & 8.07 & 8.28 & 72.40 & 32.19 & 64.13 & 122.84 & 253.08 & 1235.16 & 672.40 & 1101.52 & 1101.65 & 981.16 & 997.16 & 674.39 & 794.69 & 3025.79 & 4484.81 & 2.27 & 1.03 & \underline{0.76} & 11.10 & 14.47 & 35.23 & \underline{1381.70} & 410.61 & 3.13 & 1587.31 & 1651.28 \\
+$\times$ & $\times$ & 0.25 & 5.37 & 9.03 & 8.48 & 71.77 & 35.48 & \underline{62.33} & \underline{119.81} & 255.24 & 680.26 & 668.44 & 658.69 & 1087.38 & 677.24 & 895.48 & 993.00 & 770.55 & 5010.38 & \underline{2612.42} & 2.25 & 1.02 & 0.77 & 11.06 & 14.22 & 35.18 & 2106.35 & 388.28 & 2.00 & \underline{1573.32} & 1590.19 \\
+$\times$ & $\times$ & 0.35 & 4.93 & 8.34 & \underline{8.21} & 71.91 & \underline{32.04} & 64.06 & 122.03 & \textbf{246.70} & 677.15 & \textbf{666.46} & 1012.61 & \underline{670.21} & 1062.26 & 1003.53 & 1044.66 & 492.23 & 4857.51 & \textbf{2610.50} & 2.25 & 1.00 & \underline{0.76} & \underline{11.05} & \textbf{14.05} & 35.19 & \textbf{1362.73} & 291.08 & \underline{1.99} & 1575.27 & \textbf{751.49} \\
+$\times$ & $\times$ & 0.50 & \textbf{4.56} & 8.92 & 8.60 & 72.18 & \textbf{31.55} & 62.75 & 126.91 & 479.41 & 1193.43 & 680.22 & 663.83 & 678.51 & \underline{672.93} & \underline{673.96} & \underline{664.59} & 814.62 & \textbf{2957.78} & 2621.02 & 2.25 & \textbf{0.96} & 0.77 & \textbf{11.01} & 14.16 & 35.29 & 1382.07 & 294.02 & \textbf{1.96} & 1605.43 & 1459.22 \\
+\bottomrule
+\end{tabular}
+\end{table}

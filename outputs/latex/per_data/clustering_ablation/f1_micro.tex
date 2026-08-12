@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Clustering ablation per-dataset $F1_{micro}$ values. Higher values are better.}
+\label{tab:per-data-clustering-ablation-f1-micro}
+\begin{tabular}{lrrrrrrrrrrrrrrrrrrrrrr}
+\toprule
+Clustering & Birds & Water-qual & Gnegative & Langlog & Human & Slashdot & Eukaryote & OHSUMED-F & tmc2007-500 & Mediamill & Imdb & Emotions & VirusGO & Flags & Scene & Genbase & Medical & Corel5k & Stackex & CHD49 & Corel16k & Yahoo-com \\
+\midrule
+Agglomerative & \textbf{0.2506} & \underline{0.5445} & \textbf{0.5178} & \textbf{0.0755} & \underline{0.1996} & \underline{0.1233} & \underline{0.0906} & 0.1945 & 0.3002 & 0.1195 & \textbf{0.1877} & \textbf{0.6417} & \textbf{0.4447} & \textbf{0.4446} & \underline{0.3880} & \textbf{0.1422} & \textbf{0.0766} & 0.0302 & \underline{0.0281} & \textbf{0.5869} & 0.0710 & \underline{0.0687} \\
+$C^3$M & \textbf{0.2506} & \textbf{0.5488} & \textbf{0.5178} & \textbf{0.0755} & 0.1892 & \textbf{0.1876} & \textbf{0.1089} & \underline{0.2220} & \textbf{0.3188} & \textbf{0.1429} & \underline{0.1826} & \textbf{0.6417} & \textbf{0.4447} & \textbf{0.4446} & \textbf{0.4391} & \textbf{0.1422} & \textbf{0.0766} & \underline{0.0561} & \textbf{0.0491} & \textbf{0.5869} & \underline{0.0858} & 0.0655 \\
+KMeans & \textbf{0.2506} & \textbf{0.5488} & \underline{0.4851} & \textbf{0.0755} & \textbf{0.2381} & \textbf{0.1876} & 0.0633 & \textbf{0.2366} & \underline{0.3025} & \underline{0.1225} & 0.1510 & \textbf{0.6417} & \textbf{0.4447} & \textbf{0.4446} & 0.3762 & \textbf{0.1422} & \textbf{0.0766} & \textbf{0.0853} & \textbf{0.0491} & \underline{0.5776} & \textbf{0.0925} & \textbf{0.0925} \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,31 @@
+dataset,NVI,NVI,ARI,ARI,Monte Carlo,Monte Carlo
+,Drift,No Drift,Drift,No Drift,Drift,No Drift
+Flags,0,0,0,0,0,0
+VirusGO,0,0,0,0,0,0
+CHD49,0,0,0,1,0,0
+Emotions,0,0,0,0,0,1
+Birds,0,0,0,0,0,0
+Genbase,0,1,0,0,0,0
+Medical,0,1,0,1,0,0
+Water-qual,0,0,0,3,0,0
+Gnegative,0,1,0,0,0,2
+Langlog,0,0,0,2,0,2
+Stackex,0,0,0,3,0,2
+Scene,1,1,1,3,0,2
+Human,1,5,1,1,0,3
+Slashdot,0,1,0,3,0,10
+Corel5k,0,2,1,3,0,13
+Eukaryote,0,26,3,1,0,0
+Yahoo-com,0,30,4,6,0,8
+Corel16k,0,8,6,9,0,31
+OHSUMED-F,0,4,11,20,0,19
+Synthetic_Incremental1,0,0,41,0,0,29
+Synthetic_Incremental2,0,0,45,1,0,24
+Synthetic_Incremental3,0,0,41,0,0,29
+Synthetic_Reoccurring,0,0,41,1,0,28
+Synthetic_Sudden1,0,0,46,2,0,22
+Synthetic_Sudden2,0,0,42,0,0,28
+Synthetic_Sudden3,0,0,45,2,0,23
+tmc2007-500,0,0,27,28,0,58
+Mediamill,0,7,5,112,0,43
+Imdb,0,117,58,100,0,207

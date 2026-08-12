@@ -1,0 +1,8 @@
+Dataset,LD3,ADWIN,DDM,EDDM,FHDDM,FHDDMS,FHDDMS_add,HDDM_A,HDDM_W,KSWIN,LACE,MDDM_A,MDDM_E,MDDM_G,ND,RDDM,SeqDrift2
+Synthetic_Incremental1,5,1,36,2,0,0,0,0,0,0,13,0,0,0,0,0,0
+Synthetic_Incremental2,6,1,34,2,0,0,0,0,0,0,18,0,0,0,0,0,0
+Synthetic_Incremental3,6,0,13,2,0,0,0,0,0,0,16,0,0,0,0,1,0
+Synthetic_Reoccurring,0,0,32,1,0,0,0,0,0,0,13,0,0,0,0,0,0
+Synthetic_Sudden1,5,1,39,2,0,0,0,0,0,0,14,0,0,0,0,0,0
+Synthetic_Sudden2,8,1,39,2,0,0,0,0,0,0,13,0,0,0,0,0,0
+Synthetic_Sudden3,4,1,39,2,0,0,0,0,0,0,14,0,0,0,0,0,0

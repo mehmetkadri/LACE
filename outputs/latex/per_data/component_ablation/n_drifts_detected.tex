@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Component ablation per-dataset \#Drifts values. Lower values are better.}
+\label{tab:per-data-component-ablation-n-drifts-detected}
+\begin{tabular}{ccrrrrrrrr}
+\toprule
+Monte Carlo & NVI & Tau & Synthetic\_Sudden1 & Synthetic\_Sudden2 & Synthetic\_Sudden3 & Synthetic\_Incremental1 & Synthetic\_Incremental2 & Synthetic\_Incremental3 & Synthetic\_Reoccurring \\
+\midrule
+$\checkmark$ & $\checkmark$ & $\times$ & \textbf{46.0000} & \textbf{42.0000} & \textbf{45.0000} & \textbf{41.0000} & \textbf{45.0000} & \textbf{41.0000} & \textbf{41.0000} \\
+$\checkmark$ & $\times$ & $\times$ & \textbf{46.0000} & \textbf{42.0000} & \textbf{45.0000} & \textbf{41.0000} & \textbf{45.0000} & \textbf{41.0000} & \textbf{41.0000} \\
+$\times$ & $\checkmark$ & 0.10 & \textbf{46.0000} & \underline{48.0000} & \underline{48.0000} & \underline{45.0000} & \underline{49.0000} & \underline{47.0000} & \underline{48.0000} \\
+$\times$ & $\checkmark$ & 0.25 & \underline{55.0000} & 57.0000 & 58.0000 & 56.0000 & 57.0000 & 55.0000 & 58.0000 \\
+$\times$ & $\checkmark$ & 0.35 & 61.0000 & 60.0000 & 62.0000 & 62.0000 & 63.0000 & 60.0000 & 62.0000 \\
+$\times$ & $\checkmark$ & 0.50 & 68.0000 & 68.0000 & 68.0000 & 69.0000 & 68.0000 & 68.0000 & 68.0000 \\
+$\times$ & $\times$ & 0.10 & \textbf{46.0000} & \underline{48.0000} & \underline{48.0000} & \underline{45.0000} & \underline{49.0000} & \underline{47.0000} & \underline{48.0000} \\
+$\times$ & $\times$ & 0.25 & \underline{55.0000} & 57.0000 & 58.0000 & 56.0000 & 57.0000 & 55.0000 & 58.0000 \\
+$\times$ & $\times$ & 0.35 & 61.0000 & 60.0000 & 62.0000 & 62.0000 & 63.0000 & 60.0000 & 62.0000 \\
+$\times$ & $\times$ & 0.50 & 68.0000 & 68.0000 & 68.0000 & 69.0000 & 68.0000 & 68.0000 & 68.0000 \\
+\bottomrule
+\end{tabular}
+\end{table}

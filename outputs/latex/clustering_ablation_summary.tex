@@ -1,0 +1,15 @@
+\begin{table}
+\caption{Clustering ablation summary for LACE-*\_best variants. Predictive-performance columns report mean ranks over retained real datasets, with Pred. averaging the displayed predictive mean ranks. MDR and DFD are averaged over synthetic datasets; Time is reported in seconds and Time/Item in centiseconds over all available datasets.}
+\label{tab:clustering_ablation_summary}
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+ & \multicolumn{5}{c}{Predictive Performance Mean Ranks} & \multicolumn{2}{c}{Drift Detection} & \multicolumn{2}{c}{Efficiency} \\
+\cmidrule(lr){2-6} \cmidrule(lr){7-8} \cmidrule(lr){9-10}
+Clustering & Overall & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ & MDR & DFD & Time (s) & Time/Item (cs) \\
+\midrule
+$C^3$M & \textbf{1.7500} & \textbf{1.6591} & \textbf{1.8409} & \textbf{1.7045} & \textbf{1.7955} & \textbf{0.0000} & \textbf{219.43} & 791.81 & 6.28 \\
+KMeans & \underline{2.0227} & \underline{2.1591} & \underline{1.8864} & \underline{2.1136} & \underline{1.9318} & 1.0000 & -- & \textbf{567.59} & \textbf{4.45} \\
+Agglomerative & 2.2273 & 2.1818 & 2.2727 & 2.1818 & 2.2727 & \underline{0.9286} & \underline{804.00} & \underline{784.82} & \underline{6.13} \\
+\bottomrule
+\end{tabular}
+\end{table}

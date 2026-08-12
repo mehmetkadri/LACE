@@ -1,0 +1,27 @@
+\begin{table}
+\caption{Predictive effectiveness comparison using mean ranks over retained real datasets. Lower ranks are better.}
+\label{tab:baseline_effectiveness_mean_ranks}
+\begin{tabular}{llllll}
+\toprule
+Method & Effectiveness & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ \\
+\midrule
+\textbf{LACE} & \textbf{6.9886} & \textbf{6.1591} & 7.7500 & \textbf{6.3864} & \underline{7.6591} \\
+LD3 & \underline{7.2955} & 7.2955 & \textbf{6.7500} & \underline{7.9773} & \textbf{7.1591} \\
+RDDM & 7.7273 & \underline{6.5455} & 7.7727 & 8.1818 & 8.4091 \\
+ND & 7.8523 & 8.4545 & \underline{7.2727} & 8.0000 & 7.6818 \\
+ADWIN & 8.0511 & 7.6818 & 8.1136 & 8.3182 & 8.0909 \\
+FHDDMS\_add & 8.3750 & 8.3864 & 8.4773 & 8.2955 & 8.3409 \\
+MDDM\_G & 8.4034 & 8.4545 & 8.7045 & 8.2273 & 8.2273 \\
+MDDM\_E & 8.4205 & 8.3182 & 8.8182 & 8.2273 & 8.3182 \\
+MDDM\_A & 8.5909 & 8.6136 & 8.7955 & 8.4773 & 8.4773 \\
+FHDDM & 8.6250 & 8.8182 & 8.4091 & 8.7727 & 8.5000 \\
+KSWIN & 8.8977 & 9.4545 & 8.6818 & 8.8182 & 8.6364 \\
+FHDDMS & 9.0227 & 8.8182 & 9.3636 & 8.7273 & 9.1818 \\
+SeqDrift2 & 9.5682 & 10.2273 & 8.8182 & 9.7727 & 9.4545 \\
+HDDM\_W & 9.5909 & 10.0455 & 9.5455 & 9.4545 & 9.3182 \\
+HDDM\_A & 10.4886 & 10.7273 & 10.3636 & 10.5000 & 10.3636 \\
+EDDM & 10.7159 & 11.0455 & 10.8182 & 10.3636 & 10.6364 \\
+DDM & 14.3864 & 13.9545 & 14.5455 & 14.5000 & 14.5455 \\
+\bottomrule
+\end{tabular}
+\end{table}

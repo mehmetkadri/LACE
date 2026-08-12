@@ -1,0 +1,1497 @@
+Metric,Dataset,Method,Rank
+Accuracy,Birds,LACE,8.5
+Accuracy,Birds,LD3,17.0
+Accuracy,Birds,RDDM,1.0
+Accuracy,Birds,ND,8.5
+Accuracy,Birds,ADWIN,8.5
+Accuracy,Birds,DDM,16.0
+Accuracy,Birds,EDDM,8.5
+Accuracy,Birds,FHDDM,8.5
+Accuracy,Birds,FHDDMS,8.5
+Accuracy,Birds,FHDDMS_add,8.5
+Accuracy,Birds,HDDM_A,8.5
+Accuracy,Birds,HDDM_W,8.5
+Accuracy,Birds,KSWIN,8.5
+Accuracy,Birds,MDDM_A,8.5
+Accuracy,Birds,MDDM_E,8.5
+Accuracy,Birds,MDDM_G,8.5
+Accuracy,Birds,SeqDrift2,8.5
+Accuracy,CHD49,LACE,8.0
+Accuracy,CHD49,LD3,8.0
+Accuracy,CHD49,RDDM,16.0
+Accuracy,CHD49,ND,8.0
+Accuracy,CHD49,ADWIN,8.0
+Accuracy,CHD49,DDM,17.0
+Accuracy,CHD49,EDDM,15.0
+Accuracy,CHD49,FHDDM,8.0
+Accuracy,CHD49,FHDDMS,8.0
+Accuracy,CHD49,FHDDMS_add,8.0
+Accuracy,CHD49,HDDM_A,8.0
+Accuracy,CHD49,HDDM_W,8.0
+Accuracy,CHD49,KSWIN,1.0
+Accuracy,CHD49,MDDM_A,8.0
+Accuracy,CHD49,MDDM_E,8.0
+Accuracy,CHD49,MDDM_G,8.0
+Accuracy,CHD49,SeqDrift2,8.0
+Accuracy,Corel16k,LACE,2.0
+Accuracy,Corel16k,LD3,16.5
+Accuracy,Corel16k,RDDM,1.0
+Accuracy,Corel16k,ND,16.5
+Accuracy,Corel16k,ADWIN,3.0
+Accuracy,Corel16k,DDM,15.0
+Accuracy,Corel16k,EDDM,11.0
+Accuracy,Corel16k,FHDDM,9.0
+Accuracy,Corel16k,FHDDMS,4.0
+Accuracy,Corel16k,FHDDMS_add,5.0
+Accuracy,Corel16k,HDDM_A,14.0
+Accuracy,Corel16k,HDDM_W,12.0
+Accuracy,Corel16k,KSWIN,13.0
+Accuracy,Corel16k,MDDM_A,10.0
+Accuracy,Corel16k,MDDM_E,6.0
+Accuracy,Corel16k,MDDM_G,8.0
+Accuracy,Corel16k,SeqDrift2,7.0
+Accuracy,Corel5k,LACE,1.0
+Accuracy,Corel5k,LD3,8.5
+Accuracy,Corel5k,RDDM,16.0
+Accuracy,Corel5k,ND,8.5
+Accuracy,Corel5k,ADWIN,8.5
+Accuracy,Corel5k,DDM,17.0
+Accuracy,Corel5k,EDDM,8.5
+Accuracy,Corel5k,FHDDM,8.5
+Accuracy,Corel5k,FHDDMS,8.5
+Accuracy,Corel5k,FHDDMS_add,8.5
+Accuracy,Corel5k,HDDM_A,8.5
+Accuracy,Corel5k,HDDM_W,8.5
+Accuracy,Corel5k,KSWIN,8.5
+Accuracy,Corel5k,MDDM_A,8.5
+Accuracy,Corel5k,MDDM_E,8.5
+Accuracy,Corel5k,MDDM_G,8.5
+Accuracy,Corel5k,SeqDrift2,8.5
+Accuracy,Emotions,LACE,8.5
+Accuracy,Emotions,LD3,8.5
+Accuracy,Emotions,RDDM,8.5
+Accuracy,Emotions,ND,8.5
+Accuracy,Emotions,ADWIN,8.5
+Accuracy,Emotions,DDM,8.5
+Accuracy,Emotions,EDDM,17.0
+Accuracy,Emotions,FHDDM,8.5
+Accuracy,Emotions,FHDDMS,8.5
+Accuracy,Emotions,FHDDMS_add,8.5
+Accuracy,Emotions,HDDM_A,8.5
+Accuracy,Emotions,HDDM_W,8.5
+Accuracy,Emotions,KSWIN,8.5
+Accuracy,Emotions,MDDM_A,8.5
+Accuracy,Emotions,MDDM_E,8.5
+Accuracy,Emotions,MDDM_G,8.5
+Accuracy,Emotions,SeqDrift2,8.5
+Accuracy,Eukaryote,LACE,3.0
+Accuracy,Eukaryote,LD3,1.0
+Accuracy,Eukaryote,RDDM,2.0
+Accuracy,Eukaryote,ND,10.5
+Accuracy,Eukaryote,ADWIN,10.5
+Accuracy,Eukaryote,DDM,10.5
+Accuracy,Eukaryote,EDDM,10.5
+Accuracy,Eukaryote,FHDDM,10.5
+Accuracy,Eukaryote,FHDDMS,10.5
+Accuracy,Eukaryote,FHDDMS_add,10.5
+Accuracy,Eukaryote,HDDM_A,10.5
+Accuracy,Eukaryote,HDDM_W,10.5
+Accuracy,Eukaryote,KSWIN,10.5
+Accuracy,Eukaryote,MDDM_A,10.5
+Accuracy,Eukaryote,MDDM_E,10.5
+Accuracy,Eukaryote,MDDM_G,10.5
+Accuracy,Eukaryote,SeqDrift2,10.5
+Accuracy,Flags,LACE,8.5
+Accuracy,Flags,LD3,8.5
+Accuracy,Flags,RDDM,8.5
+Accuracy,Flags,ND,8.5
+Accuracy,Flags,ADWIN,8.5
+Accuracy,Flags,DDM,17.0
+Accuracy,Flags,EDDM,8.5
+Accuracy,Flags,FHDDM,8.5
+Accuracy,Flags,FHDDMS,8.5
+Accuracy,Flags,FHDDMS_add,8.5
+Accuracy,Flags,HDDM_A,8.5
+Accuracy,Flags,HDDM_W,8.5
+Accuracy,Flags,KSWIN,8.5
+Accuracy,Flags,MDDM_A,8.5
+Accuracy,Flags,MDDM_E,8.5
+Accuracy,Flags,MDDM_G,8.5
+Accuracy,Flags,SeqDrift2,8.5
+Accuracy,Genbase,LACE,9.5
+Accuracy,Genbase,LD3,9.5
+Accuracy,Genbase,RDDM,9.5
+Accuracy,Genbase,ND,9.5
+Accuracy,Genbase,ADWIN,9.5
+Accuracy,Genbase,DDM,1.0
+Accuracy,Genbase,EDDM,2.0
+Accuracy,Genbase,FHDDM,9.5
+Accuracy,Genbase,FHDDMS,9.5
+Accuracy,Genbase,FHDDMS_add,9.5
+Accuracy,Genbase,HDDM_A,9.5
+Accuracy,Genbase,HDDM_W,9.5
+Accuracy,Genbase,KSWIN,9.5
+Accuracy,Genbase,MDDM_A,9.5
+Accuracy,Genbase,MDDM_E,9.5
+Accuracy,Genbase,MDDM_G,9.5
+Accuracy,Genbase,SeqDrift2,17.0
+Accuracy,Gnegative,LACE,2.0
+Accuracy,Gnegative,LD3,2.0
+Accuracy,Gnegative,RDDM,7.0
+Accuracy,Gnegative,ND,2.0
+Accuracy,Gnegative,ADWIN,12.0
+Accuracy,Gnegative,DDM,14.0
+Accuracy,Gnegative,EDDM,15.0
+Accuracy,Gnegative,FHDDM,10.0
+Accuracy,Gnegative,FHDDMS,9.0
+Accuracy,Gnegative,FHDDMS_add,8.0
+Accuracy,Gnegative,HDDM_A,17.0
+Accuracy,Gnegative,HDDM_W,16.0
+Accuracy,Gnegative,KSWIN,11.0
+Accuracy,Gnegative,MDDM_A,6.0
+Accuracy,Gnegative,MDDM_E,4.0
+Accuracy,Gnegative,MDDM_G,5.0
+Accuracy,Gnegative,SeqDrift2,13.0
+Accuracy,Human,LACE,4.0
+Accuracy,Human,LD3,2.5
+Accuracy,Human,RDDM,8.0
+Accuracy,Human,ND,2.5
+Accuracy,Human,ADWIN,1.0
+Accuracy,Human,DDM,17.0
+Accuracy,Human,EDDM,15.0
+Accuracy,Human,FHDDM,6.0
+Accuracy,Human,FHDDMS,11.0
+Accuracy,Human,FHDDMS_add,5.0
+Accuracy,Human,HDDM_A,16.0
+Accuracy,Human,HDDM_W,14.0
+Accuracy,Human,KSWIN,13.0
+Accuracy,Human,MDDM_A,7.0
+Accuracy,Human,MDDM_E,9.5
+Accuracy,Human,MDDM_G,9.5
+Accuracy,Human,SeqDrift2,12.0
+Accuracy,Imdb,LACE,4.0
+Accuracy,Imdb,LD3,2.0
+Accuracy,Imdb,RDDM,1.0
+Accuracy,Imdb,ND,12.0
+Accuracy,Imdb,ADWIN,3.0
+Accuracy,Imdb,DDM,6.0
+Accuracy,Imdb,EDDM,5.0
+Accuracy,Imdb,FHDDM,12.0
+Accuracy,Imdb,FHDDMS,12.0
+Accuracy,Imdb,FHDDMS_add,12.0
+Accuracy,Imdb,HDDM_A,12.0
+Accuracy,Imdb,HDDM_W,12.0
+Accuracy,Imdb,KSWIN,12.0
+Accuracy,Imdb,MDDM_A,12.0
+Accuracy,Imdb,MDDM_E,12.0
+Accuracy,Imdb,MDDM_G,12.0
+Accuracy,Imdb,SeqDrift2,12.0
+Accuracy,Langlog,LACE,8.0
+Accuracy,Langlog,LD3,8.0
+Accuracy,Langlog,RDDM,8.0
+Accuracy,Langlog,ND,8.0
+Accuracy,Langlog,ADWIN,8.0
+Accuracy,Langlog,DDM,17.0
+Accuracy,Langlog,EDDM,16.0
+Accuracy,Langlog,FHDDM,8.0
+Accuracy,Langlog,FHDDMS,8.0
+Accuracy,Langlog,FHDDMS_add,8.0
+Accuracy,Langlog,HDDM_A,8.0
+Accuracy,Langlog,HDDM_W,8.0
+Accuracy,Langlog,KSWIN,8.0
+Accuracy,Langlog,MDDM_A,8.0
+Accuracy,Langlog,MDDM_E,8.0
+Accuracy,Langlog,MDDM_G,8.0
+Accuracy,Langlog,SeqDrift2,8.0
+Accuracy,Mediamill,LACE,2.0
+Accuracy,Mediamill,LD3,10.5
+Accuracy,Mediamill,RDDM,1.0
+Accuracy,Mediamill,ND,10.5
+Accuracy,Mediamill,ADWIN,3.0
+Accuracy,Mediamill,DDM,17.0
+Accuracy,Mediamill,EDDM,4.0
+Accuracy,Mediamill,FHDDM,10.5
+Accuracy,Mediamill,FHDDMS,10.5
+Accuracy,Mediamill,FHDDMS_add,10.5
+Accuracy,Mediamill,HDDM_A,10.5
+Accuracy,Mediamill,HDDM_W,10.5
+Accuracy,Mediamill,KSWIN,10.5
+Accuracy,Mediamill,MDDM_A,10.5
+Accuracy,Mediamill,MDDM_E,10.5
+Accuracy,Mediamill,MDDM_G,10.5
+Accuracy,Mediamill,SeqDrift2,10.5
+Accuracy,Medical,LACE,8.0
+Accuracy,Medical,LD3,8.0
+Accuracy,Medical,RDDM,8.0
+Accuracy,Medical,ND,8.0
+Accuracy,Medical,ADWIN,8.0
+Accuracy,Medical,DDM,17.0
+Accuracy,Medical,EDDM,16.0
+Accuracy,Medical,FHDDM,8.0
+Accuracy,Medical,FHDDMS,8.0
+Accuracy,Medical,FHDDMS_add,8.0
+Accuracy,Medical,HDDM_A,8.0
+Accuracy,Medical,HDDM_W,8.0
+Accuracy,Medical,KSWIN,8.0
+Accuracy,Medical,MDDM_A,8.0
+Accuracy,Medical,MDDM_E,8.0
+Accuracy,Medical,MDDM_G,8.0
+Accuracy,Medical,SeqDrift2,8.0
+Accuracy,OHSUMED-F,LACE,4.0
+Accuracy,OHSUMED-F,LD3,3.0
+Accuracy,OHSUMED-F,RDDM,2.0
+Accuracy,OHSUMED-F,ND,9.5
+Accuracy,OHSUMED-F,ADWIN,1.0
+Accuracy,OHSUMED-F,DDM,17.0
+Accuracy,OHSUMED-F,EDDM,16.0
+Accuracy,OHSUMED-F,FHDDM,9.5
+Accuracy,OHSUMED-F,FHDDMS,9.5
+Accuracy,OHSUMED-F,FHDDMS_add,9.5
+Accuracy,OHSUMED-F,HDDM_A,9.5
+Accuracy,OHSUMED-F,HDDM_W,9.5
+Accuracy,OHSUMED-F,KSWIN,9.5
+Accuracy,OHSUMED-F,MDDM_A,9.5
+Accuracy,OHSUMED-F,MDDM_E,9.5
+Accuracy,OHSUMED-F,MDDM_G,9.5
+Accuracy,OHSUMED-F,SeqDrift2,15.0
+Accuracy,Scene,LACE,2.0
+Accuracy,Scene,LD3,3.0
+Accuracy,Scene,RDDM,4.0
+Accuracy,Scene,ND,1.0
+Accuracy,Scene,ADWIN,12.0
+Accuracy,Scene,DDM,17.0
+Accuracy,Scene,EDDM,13.0
+Accuracy,Scene,FHDDM,10.0
+Accuracy,Scene,FHDDMS,11.0
+Accuracy,Scene,FHDDMS_add,6.0
+Accuracy,Scene,HDDM_A,16.0
+Accuracy,Scene,HDDM_W,15.0
+Accuracy,Scene,KSWIN,14.0
+Accuracy,Scene,MDDM_A,9.0
+Accuracy,Scene,MDDM_E,7.5
+Accuracy,Scene,MDDM_G,7.5
+Accuracy,Scene,SeqDrift2,5.0
+Accuracy,Slashdot,LACE,10.5
+Accuracy,Slashdot,LD3,1.0
+Accuracy,Slashdot,RDDM,8.0
+Accuracy,Slashdot,ND,10.5
+Accuracy,Slashdot,ADWIN,13.0
+Accuracy,Slashdot,DDM,17.0
+Accuracy,Slashdot,EDDM,16.0
+Accuracy,Slashdot,FHDDM,5.5
+Accuracy,Slashdot,FHDDMS,5.5
+Accuracy,Slashdot,FHDDMS_add,7.0
+Accuracy,Slashdot,HDDM_A,14.0
+Accuracy,Slashdot,HDDM_W,10.5
+Accuracy,Slashdot,KSWIN,10.5
+Accuracy,Slashdot,MDDM_A,4.0
+Accuracy,Slashdot,MDDM_E,2.5
+Accuracy,Slashdot,MDDM_G,2.5
+Accuracy,Slashdot,SeqDrift2,15.0
+Accuracy,Stackex,LACE,8.5
+Accuracy,Stackex,LD3,8.5
+Accuracy,Stackex,RDDM,8.5
+Accuracy,Stackex,ND,8.5
+Accuracy,Stackex,ADWIN,8.5
+Accuracy,Stackex,DDM,17.0
+Accuracy,Stackex,EDDM,8.5
+Accuracy,Stackex,FHDDM,8.5
+Accuracy,Stackex,FHDDMS,8.5
+Accuracy,Stackex,FHDDMS_add,8.5
+Accuracy,Stackex,HDDM_A,8.5
+Accuracy,Stackex,HDDM_W,8.5
+Accuracy,Stackex,KSWIN,8.5
+Accuracy,Stackex,MDDM_A,8.5
+Accuracy,Stackex,MDDM_E,8.5
+Accuracy,Stackex,MDDM_G,8.5
+Accuracy,Stackex,SeqDrift2,8.5
+Accuracy,VirusGO,LACE,9.0
+Accuracy,VirusGO,LD3,9.0
+Accuracy,VirusGO,RDDM,9.0
+Accuracy,VirusGO,ND,9.0
+Accuracy,VirusGO,ADWIN,9.0
+Accuracy,VirusGO,DDM,9.0
+Accuracy,VirusGO,EDDM,9.0
+Accuracy,VirusGO,FHDDM,9.0
+Accuracy,VirusGO,FHDDMS,9.0
+Accuracy,VirusGO,FHDDMS_add,9.0
+Accuracy,VirusGO,HDDM_A,9.0
+Accuracy,VirusGO,HDDM_W,9.0
+Accuracy,VirusGO,KSWIN,9.0
+Accuracy,VirusGO,MDDM_A,9.0
+Accuracy,VirusGO,MDDM_E,9.0
+Accuracy,VirusGO,MDDM_G,9.0
+Accuracy,VirusGO,SeqDrift2,9.0
+Accuracy,Water-qual,LACE,8.5
+Accuracy,Water-qual,LD3,8.5
+Accuracy,Water-qual,RDDM,8.5
+Accuracy,Water-qual,ND,8.5
+Accuracy,Water-qual,ADWIN,8.5
+Accuracy,Water-qual,DDM,17.0
+Accuracy,Water-qual,EDDM,8.5
+Accuracy,Water-qual,FHDDM,8.5
+Accuracy,Water-qual,FHDDMS,8.5
+Accuracy,Water-qual,FHDDMS_add,8.5
+Accuracy,Water-qual,HDDM_A,8.5
+Accuracy,Water-qual,HDDM_W,8.5
+Accuracy,Water-qual,KSWIN,8.5
+Accuracy,Water-qual,MDDM_A,8.5
+Accuracy,Water-qual,MDDM_E,8.5
+Accuracy,Water-qual,MDDM_G,8.5
+Accuracy,Water-qual,SeqDrift2,8.5
+Accuracy,Yahoo-com,LACE,14.0
+Accuracy,Yahoo-com,LD3,16.0
+Accuracy,Yahoo-com,RDDM,5.5
+Accuracy,Yahoo-com,ND,5.5
+Accuracy,Yahoo-com,ADWIN,13.0
+Accuracy,Yahoo-com,DDM,17.0
+Accuracy,Yahoo-com,EDDM,15.0
+Accuracy,Yahoo-com,FHDDM,5.5
+Accuracy,Yahoo-com,FHDDMS,5.5
+Accuracy,Yahoo-com,FHDDMS_add,5.5
+Accuracy,Yahoo-com,HDDM_A,11.0
+Accuracy,Yahoo-com,HDDM_W,5.5
+Accuracy,Yahoo-com,KSWIN,5.5
+Accuracy,Yahoo-com,MDDM_A,5.5
+Accuracy,Yahoo-com,MDDM_E,5.5
+Accuracy,Yahoo-com,MDDM_G,5.5
+Accuracy,Yahoo-com,SeqDrift2,12.0
+Accuracy,tmc2007-500,LACE,2.0
+Accuracy,tmc2007-500,LD3,1.0
+Accuracy,tmc2007-500,RDDM,3.0
+Accuracy,tmc2007-500,ND,12.0
+Accuracy,tmc2007-500,ADWIN,4.0
+Accuracy,tmc2007-500,DDM,6.0
+Accuracy,tmc2007-500,EDDM,5.0
+Accuracy,tmc2007-500,FHDDM,12.0
+Accuracy,tmc2007-500,FHDDMS,12.0
+Accuracy,tmc2007-500,FHDDMS_add,12.0
+Accuracy,tmc2007-500,HDDM_A,12.0
+Accuracy,tmc2007-500,HDDM_W,12.0
+Accuracy,tmc2007-500,KSWIN,12.0
+Accuracy,tmc2007-500,MDDM_A,12.0
+Accuracy,tmc2007-500,MDDM_E,12.0
+Accuracy,tmc2007-500,MDDM_G,12.0
+Accuracy,tmc2007-500,SeqDrift2,12.0
+Hamming Score,Birds,LACE,7.5
+Hamming Score,Birds,LD3,17.0
+Hamming Score,Birds,RDDM,15.0
+Hamming Score,Birds,ND,7.5
+Hamming Score,Birds,ADWIN,7.5
+Hamming Score,Birds,DDM,16.0
+Hamming Score,Birds,EDDM,7.5
+Hamming Score,Birds,FHDDM,7.5
+Hamming Score,Birds,FHDDMS,7.5
+Hamming Score,Birds,FHDDMS_add,7.5
+Hamming Score,Birds,HDDM_A,7.5
+Hamming Score,Birds,HDDM_W,7.5
+Hamming Score,Birds,KSWIN,7.5
+Hamming Score,Birds,MDDM_A,7.5
+Hamming Score,Birds,MDDM_E,7.5
+Hamming Score,Birds,MDDM_G,7.5
+Hamming Score,Birds,SeqDrift2,7.5
+Hamming Score,CHD49,LACE,9.0
+Hamming Score,CHD49,LD3,9.0
+Hamming Score,CHD49,RDDM,16.0
+Hamming Score,CHD49,ND,9.0
+Hamming Score,CHD49,ADWIN,9.0
+Hamming Score,CHD49,DDM,17.0
+Hamming Score,CHD49,EDDM,2.0
+Hamming Score,CHD49,FHDDM,9.0
+Hamming Score,CHD49,FHDDMS,9.0
+Hamming Score,CHD49,FHDDMS_add,9.0
+Hamming Score,CHD49,HDDM_A,9.0
+Hamming Score,CHD49,HDDM_W,9.0
+Hamming Score,CHD49,KSWIN,1.0
+Hamming Score,CHD49,MDDM_A,9.0
+Hamming Score,CHD49,MDDM_E,9.0
+Hamming Score,CHD49,MDDM_G,9.0
+Hamming Score,CHD49,SeqDrift2,9.0
+Hamming Score,Corel16k,LACE,15.0
+Hamming Score,Corel16k,LD3,1.5
+Hamming Score,Corel16k,RDDM,17.0
+Hamming Score,Corel16k,ND,1.5
+Hamming Score,Corel16k,ADWIN,14.0
+Hamming Score,Corel16k,DDM,16.0
+Hamming Score,Corel16k,EDDM,10.0
+Hamming Score,Corel16k,FHDDM,4.0
+Hamming Score,Corel16k,FHDDMS,9.0
+Hamming Score,Corel16k,FHDDMS_add,8.0
+Hamming Score,Corel16k,HDDM_A,11.0
+Hamming Score,Corel16k,HDDM_W,12.0
+Hamming Score,Corel16k,KSWIN,13.0
+Hamming Score,Corel16k,MDDM_A,7.0
+Hamming Score,Corel16k,MDDM_E,5.0
+Hamming Score,Corel16k,MDDM_G,6.0
+Hamming Score,Corel16k,SeqDrift2,3.0
+Hamming Score,Corel5k,LACE,15.0
+Hamming Score,Corel5k,LD3,7.5
+Hamming Score,Corel5k,RDDM,16.0
+Hamming Score,Corel5k,ND,7.5
+Hamming Score,Corel5k,ADWIN,7.5
+Hamming Score,Corel5k,DDM,17.0
+Hamming Score,Corel5k,EDDM,7.5
+Hamming Score,Corel5k,FHDDM,7.5
+Hamming Score,Corel5k,FHDDMS,7.5
+Hamming Score,Corel5k,FHDDMS_add,7.5
+Hamming Score,Corel5k,HDDM_A,7.5
+Hamming Score,Corel5k,HDDM_W,7.5
+Hamming Score,Corel5k,KSWIN,7.5
+Hamming Score,Corel5k,MDDM_A,7.5
+Hamming Score,Corel5k,MDDM_E,7.5
+Hamming Score,Corel5k,MDDM_G,7.5
+Hamming Score,Corel5k,SeqDrift2,7.5
+Hamming Score,Emotions,LACE,8.5
+Hamming Score,Emotions,LD3,8.5
+Hamming Score,Emotions,RDDM,8.5
+Hamming Score,Emotions,ND,8.5
+Hamming Score,Emotions,ADWIN,8.5
+Hamming Score,Emotions,DDM,8.5
+Hamming Score,Emotions,EDDM,17.0
+Hamming Score,Emotions,FHDDM,8.5
+Hamming Score,Emotions,FHDDMS,8.5
+Hamming Score,Emotions,FHDDMS_add,8.5
+Hamming Score,Emotions,HDDM_A,8.5
+Hamming Score,Emotions,HDDM_W,8.5
+Hamming Score,Emotions,KSWIN,8.5
+Hamming Score,Emotions,MDDM_A,8.5
+Hamming Score,Emotions,MDDM_E,8.5
+Hamming Score,Emotions,MDDM_G,8.5
+Hamming Score,Emotions,SeqDrift2,8.5
+Hamming Score,Eukaryote,LACE,17.0
+Hamming Score,Eukaryote,LD3,1.0
+Hamming Score,Eukaryote,RDDM,2.0
+Hamming Score,Eukaryote,ND,9.5
+Hamming Score,Eukaryote,ADWIN,9.5
+Hamming Score,Eukaryote,DDM,9.5
+Hamming Score,Eukaryote,EDDM,9.5
+Hamming Score,Eukaryote,FHDDM,9.5
+Hamming Score,Eukaryote,FHDDMS,9.5
+Hamming Score,Eukaryote,FHDDMS_add,9.5
+Hamming Score,Eukaryote,HDDM_A,9.5
+Hamming Score,Eukaryote,HDDM_W,9.5
+Hamming Score,Eukaryote,KSWIN,9.5
+Hamming Score,Eukaryote,MDDM_A,9.5
+Hamming Score,Eukaryote,MDDM_E,9.5
+Hamming Score,Eukaryote,MDDM_G,9.5
+Hamming Score,Eukaryote,SeqDrift2,9.5
+Hamming Score,Flags,LACE,8.5
+Hamming Score,Flags,LD3,8.5
+Hamming Score,Flags,RDDM,8.5
+Hamming Score,Flags,ND,8.5
+Hamming Score,Flags,ADWIN,8.5
+Hamming Score,Flags,DDM,17.0
+Hamming Score,Flags,EDDM,8.5
+Hamming Score,Flags,FHDDM,8.5
+Hamming Score,Flags,FHDDMS,8.5
+Hamming Score,Flags,FHDDMS_add,8.5
+Hamming Score,Flags,HDDM_A,8.5
+Hamming Score,Flags,HDDM_W,8.5
+Hamming Score,Flags,KSWIN,8.5
+Hamming Score,Flags,MDDM_A,8.5
+Hamming Score,Flags,MDDM_E,8.5
+Hamming Score,Flags,MDDM_G,8.5
+Hamming Score,Flags,SeqDrift2,8.5
+Hamming Score,Genbase,LACE,8.5
+Hamming Score,Genbase,LD3,8.5
+Hamming Score,Genbase,RDDM,8.5
+Hamming Score,Genbase,ND,8.5
+Hamming Score,Genbase,ADWIN,8.5
+Hamming Score,Genbase,DDM,17.0
+Hamming Score,Genbase,EDDM,16.0
+Hamming Score,Genbase,FHDDM,8.5
+Hamming Score,Genbase,FHDDMS,8.5
+Hamming Score,Genbase,FHDDMS_add,8.5
+Hamming Score,Genbase,HDDM_A,8.5
+Hamming Score,Genbase,HDDM_W,8.5
+Hamming Score,Genbase,KSWIN,8.5
+Hamming Score,Genbase,MDDM_A,8.5
+Hamming Score,Genbase,MDDM_E,8.5
+Hamming Score,Genbase,MDDM_G,8.5
+Hamming Score,Genbase,SeqDrift2,1.0
+Hamming Score,Gnegative,LACE,2.0
+Hamming Score,Gnegative,LD3,2.0
+Hamming Score,Gnegative,RDDM,6.0
+Hamming Score,Gnegative,ND,2.0
+Hamming Score,Gnegative,ADWIN,7.5
+Hamming Score,Gnegative,DDM,17.0
+Hamming Score,Gnegative,EDDM,14.0
+Hamming Score,Gnegative,FHDDM,4.0
+Hamming Score,Gnegative,FHDDMS,12.0
+Hamming Score,Gnegative,FHDDMS_add,10.0
+Hamming Score,Gnegative,HDDM_A,16.0
+Hamming Score,Gnegative,HDDM_W,15.0
+Hamming Score,Gnegative,KSWIN,5.0
+Hamming Score,Gnegative,MDDM_A,9.0
+Hamming Score,Gnegative,MDDM_E,11.0
+Hamming Score,Gnegative,MDDM_G,7.5
+Hamming Score,Gnegative,SeqDrift2,13.0
+Hamming Score,Human,LACE,4.0
+Hamming Score,Human,LD3,1.5
+Hamming Score,Human,RDDM,5.0
+Hamming Score,Human,ND,1.5
+Hamming Score,Human,ADWIN,3.0
+Hamming Score,Human,DDM,17.0
+Hamming Score,Human,EDDM,16.0
+Hamming Score,Human,FHDDM,7.0
+Hamming Score,Human,FHDDMS,11.0
+Hamming Score,Human,FHDDMS_add,6.0
+Hamming Score,Human,HDDM_A,15.0
+Hamming Score,Human,HDDM_W,14.0
+Hamming Score,Human,KSWIN,13.0
+Hamming Score,Human,MDDM_A,8.0
+Hamming Score,Human,MDDM_E,9.5
+Hamming Score,Human,MDDM_G,9.5
+Hamming Score,Human,SeqDrift2,12.0
+Hamming Score,Imdb,LACE,4.0
+Hamming Score,Imdb,LD3,1.0
+Hamming Score,Imdb,RDDM,2.0
+Hamming Score,Imdb,ND,10.0
+Hamming Score,Imdb,ADWIN,3.0
+Hamming Score,Imdb,DDM,17.0
+Hamming Score,Imdb,EDDM,16.0
+Hamming Score,Imdb,FHDDM,10.0
+Hamming Score,Imdb,FHDDMS,10.0
+Hamming Score,Imdb,FHDDMS_add,10.0
+Hamming Score,Imdb,HDDM_A,10.0
+Hamming Score,Imdb,HDDM_W,10.0
+Hamming Score,Imdb,KSWIN,10.0
+Hamming Score,Imdb,MDDM_A,10.0
+Hamming Score,Imdb,MDDM_E,10.0
+Hamming Score,Imdb,MDDM_G,10.0
+Hamming Score,Imdb,SeqDrift2,10.0
+Hamming Score,Langlog,LACE,8.0
+Hamming Score,Langlog,LD3,8.0
+Hamming Score,Langlog,RDDM,8.0
+Hamming Score,Langlog,ND,8.0
+Hamming Score,Langlog,ADWIN,8.0
+Hamming Score,Langlog,DDM,17.0
+Hamming Score,Langlog,EDDM,16.0
+Hamming Score,Langlog,FHDDM,8.0
+Hamming Score,Langlog,FHDDMS,8.0
+Hamming Score,Langlog,FHDDMS_add,8.0
+Hamming Score,Langlog,HDDM_A,8.0
+Hamming Score,Langlog,HDDM_W,8.0
+Hamming Score,Langlog,KSWIN,8.0
+Hamming Score,Langlog,MDDM_A,8.0
+Hamming Score,Langlog,MDDM_E,8.0
+Hamming Score,Langlog,MDDM_G,8.0
+Hamming Score,Langlog,SeqDrift2,8.0
+Hamming Score,Mediamill,LACE,3.0
+Hamming Score,Mediamill,LD3,11.5
+Hamming Score,Mediamill,RDDM,2.0
+Hamming Score,Mediamill,ND,11.5
+Hamming Score,Mediamill,ADWIN,4.0
+Hamming Score,Mediamill,DDM,5.0
+Hamming Score,Mediamill,EDDM,1.0
+Hamming Score,Mediamill,FHDDM,11.5
+Hamming Score,Mediamill,FHDDMS,11.5
+Hamming Score,Mediamill,FHDDMS_add,11.5
+Hamming Score,Mediamill,HDDM_A,11.5
+Hamming Score,Mediamill,HDDM_W,11.5
+Hamming Score,Mediamill,KSWIN,11.5
+Hamming Score,Mediamill,MDDM_A,11.5
+Hamming Score,Mediamill,MDDM_E,11.5
+Hamming Score,Mediamill,MDDM_G,11.5
+Hamming Score,Mediamill,SeqDrift2,11.5
+Hamming Score,Medical,LACE,8.0
+Hamming Score,Medical,LD3,8.0
+Hamming Score,Medical,RDDM,8.0
+Hamming Score,Medical,ND,8.0
+Hamming Score,Medical,ADWIN,8.0
+Hamming Score,Medical,DDM,17.0
+Hamming Score,Medical,EDDM,16.0
+Hamming Score,Medical,FHDDM,8.0
+Hamming Score,Medical,FHDDMS,8.0
+Hamming Score,Medical,FHDDMS_add,8.0
+Hamming Score,Medical,HDDM_A,8.0
+Hamming Score,Medical,HDDM_W,8.0
+Hamming Score,Medical,KSWIN,8.0
+Hamming Score,Medical,MDDM_A,8.0
+Hamming Score,Medical,MDDM_E,8.0
+Hamming Score,Medical,MDDM_G,8.0
+Hamming Score,Medical,SeqDrift2,8.0
+Hamming Score,OHSUMED-F,LACE,4.0
+Hamming Score,OHSUMED-F,LD3,3.0
+Hamming Score,OHSUMED-F,RDDM,1.0
+Hamming Score,OHSUMED-F,ND,11.5
+Hamming Score,OHSUMED-F,ADWIN,2.0
+Hamming Score,OHSUMED-F,DDM,17.0
+Hamming Score,OHSUMED-F,EDDM,5.0
+Hamming Score,OHSUMED-F,FHDDM,11.5
+Hamming Score,OHSUMED-F,FHDDMS,11.5
+Hamming Score,OHSUMED-F,FHDDMS_add,11.5
+Hamming Score,OHSUMED-F,HDDM_A,11.5
+Hamming Score,OHSUMED-F,HDDM_W,11.5
+Hamming Score,OHSUMED-F,KSWIN,11.5
+Hamming Score,OHSUMED-F,MDDM_A,11.5
+Hamming Score,OHSUMED-F,MDDM_E,11.5
+Hamming Score,OHSUMED-F,MDDM_G,11.5
+Hamming Score,OHSUMED-F,SeqDrift2,6.0
+Hamming Score,Scene,LACE,2.0
+Hamming Score,Scene,LD3,3.0
+Hamming Score,Scene,RDDM,4.0
+Hamming Score,Scene,ND,1.0
+Hamming Score,Scene,ADWIN,12.0
+Hamming Score,Scene,DDM,17.0
+Hamming Score,Scene,EDDM,13.0
+Hamming Score,Scene,FHDDM,7.0
+Hamming Score,Scene,FHDDMS,11.0
+Hamming Score,Scene,FHDDMS_add,5.0
+Hamming Score,Scene,HDDM_A,16.0
+Hamming Score,Scene,HDDM_W,15.0
+Hamming Score,Scene,KSWIN,14.0
+Hamming Score,Scene,MDDM_A,8.0
+Hamming Score,Scene,MDDM_E,9.5
+Hamming Score,Scene,MDDM_G,9.5
+Hamming Score,Scene,SeqDrift2,6.0
+Hamming Score,Slashdot,LACE,2.5
+Hamming Score,Slashdot,LD3,5.0
+Hamming Score,Slashdot,RDDM,9.0
+Hamming Score,Slashdot,ND,2.5
+Hamming Score,Slashdot,ADWIN,14.0
+Hamming Score,Slashdot,DDM,17.0
+Hamming Score,Slashdot,EDDM,16.0
+Hamming Score,Slashdot,FHDDM,11.5
+Hamming Score,Slashdot,FHDDMS,11.5
+Hamming Score,Slashdot,FHDDMS_add,6.0
+Hamming Score,Slashdot,HDDM_A,13.0
+Hamming Score,Slashdot,HDDM_W,2.5
+Hamming Score,Slashdot,KSWIN,2.5
+Hamming Score,Slashdot,MDDM_A,10.0
+Hamming Score,Slashdot,MDDM_E,7.5
+Hamming Score,Slashdot,MDDM_G,7.5
+Hamming Score,Slashdot,SeqDrift2,15.0
+Hamming Score,Stackex,LACE,8.5
+Hamming Score,Stackex,LD3,8.5
+Hamming Score,Stackex,RDDM,8.5
+Hamming Score,Stackex,ND,8.5
+Hamming Score,Stackex,ADWIN,8.5
+Hamming Score,Stackex,DDM,17.0
+Hamming Score,Stackex,EDDM,8.5
+Hamming Score,Stackex,FHDDM,8.5
+Hamming Score,Stackex,FHDDMS,8.5
+Hamming Score,Stackex,FHDDMS_add,8.5
+Hamming Score,Stackex,HDDM_A,8.5
+Hamming Score,Stackex,HDDM_W,8.5
+Hamming Score,Stackex,KSWIN,8.5
+Hamming Score,Stackex,MDDM_A,8.5
+Hamming Score,Stackex,MDDM_E,8.5
+Hamming Score,Stackex,MDDM_G,8.5
+Hamming Score,Stackex,SeqDrift2,8.5
+Hamming Score,VirusGO,LACE,9.0
+Hamming Score,VirusGO,LD3,9.0
+Hamming Score,VirusGO,RDDM,9.0
+Hamming Score,VirusGO,ND,9.0
+Hamming Score,VirusGO,ADWIN,9.0
+Hamming Score,VirusGO,DDM,9.0
+Hamming Score,VirusGO,EDDM,9.0
+Hamming Score,VirusGO,FHDDM,9.0
+Hamming Score,VirusGO,FHDDMS,9.0
+Hamming Score,VirusGO,FHDDMS_add,9.0
+Hamming Score,VirusGO,HDDM_A,9.0
+Hamming Score,VirusGO,HDDM_W,9.0
+Hamming Score,VirusGO,KSWIN,9.0
+Hamming Score,VirusGO,MDDM_A,9.0
+Hamming Score,VirusGO,MDDM_E,9.0
+Hamming Score,VirusGO,MDDM_G,9.0
+Hamming Score,VirusGO,SeqDrift2,9.0
+Hamming Score,Water-qual,LACE,9.5
+Hamming Score,Water-qual,LD3,9.5
+Hamming Score,Water-qual,RDDM,9.5
+Hamming Score,Water-qual,ND,9.5
+Hamming Score,Water-qual,ADWIN,9.5
+Hamming Score,Water-qual,DDM,1.0
+Hamming Score,Water-qual,EDDM,9.5
+Hamming Score,Water-qual,FHDDM,9.5
+Hamming Score,Water-qual,FHDDMS,9.5
+Hamming Score,Water-qual,FHDDMS_add,9.5
+Hamming Score,Water-qual,HDDM_A,9.5
+Hamming Score,Water-qual,HDDM_W,9.5
+Hamming Score,Water-qual,KSWIN,9.5
+Hamming Score,Water-qual,MDDM_A,9.5
+Hamming Score,Water-qual,MDDM_E,9.5
+Hamming Score,Water-qual,MDDM_G,9.5
+Hamming Score,Water-qual,SeqDrift2,9.5
+Hamming Score,Yahoo-com,LACE,14.0
+Hamming Score,Yahoo-com,LD3,16.0
+Hamming Score,Yahoo-com,RDDM,5.5
+Hamming Score,Yahoo-com,ND,5.5
+Hamming Score,Yahoo-com,ADWIN,13.0
+Hamming Score,Yahoo-com,DDM,17.0
+Hamming Score,Yahoo-com,EDDM,15.0
+Hamming Score,Yahoo-com,FHDDM,5.5
+Hamming Score,Yahoo-com,FHDDMS,5.5
+Hamming Score,Yahoo-com,FHDDMS_add,5.5
+Hamming Score,Yahoo-com,HDDM_A,11.0
+Hamming Score,Yahoo-com,HDDM_W,5.5
+Hamming Score,Yahoo-com,KSWIN,5.5
+Hamming Score,Yahoo-com,MDDM_A,5.5
+Hamming Score,Yahoo-com,MDDM_E,5.5
+Hamming Score,Yahoo-com,MDDM_G,5.5
+Hamming Score,Yahoo-com,SeqDrift2,12.0
+Hamming Score,tmc2007-500,LACE,3.0
+Hamming Score,tmc2007-500,LD3,1.0
+Hamming Score,tmc2007-500,RDDM,2.0
+Hamming Score,tmc2007-500,ND,11.0
+Hamming Score,tmc2007-500,ADWIN,4.0
+Hamming Score,tmc2007-500,DDM,17.0
+Hamming Score,tmc2007-500,EDDM,5.0
+Hamming Score,tmc2007-500,FHDDM,11.0
+Hamming Score,tmc2007-500,FHDDMS,11.0
+Hamming Score,tmc2007-500,FHDDMS_add,11.0
+Hamming Score,tmc2007-500,HDDM_A,11.0
+Hamming Score,tmc2007-500,HDDM_W,11.0
+Hamming Score,tmc2007-500,KSWIN,11.0
+Hamming Score,tmc2007-500,MDDM_A,11.0
+Hamming Score,tmc2007-500,MDDM_E,11.0
+Hamming Score,tmc2007-500,MDDM_G,11.0
+Hamming Score,tmc2007-500,SeqDrift2,11.0
+F1 Example,Birds,LACE,7.5
+F1 Example,Birds,LD3,17.0
+F1 Example,Birds,RDDM,15.0
+F1 Example,Birds,ND,7.5
+F1 Example,Birds,ADWIN,7.5
+F1 Example,Birds,DDM,16.0
+F1 Example,Birds,EDDM,7.5
+F1 Example,Birds,FHDDM,7.5
+F1 Example,Birds,FHDDMS,7.5
+F1 Example,Birds,FHDDMS_add,7.5
+F1 Example,Birds,HDDM_A,7.5
+F1 Example,Birds,HDDM_W,7.5
+F1 Example,Birds,KSWIN,7.5
+F1 Example,Birds,MDDM_A,7.5
+F1 Example,Birds,MDDM_E,7.5
+F1 Example,Birds,MDDM_G,7.5
+F1 Example,Birds,SeqDrift2,7.5
+F1 Example,CHD49,LACE,9.0
+F1 Example,CHD49,LD3,9.0
+F1 Example,CHD49,RDDM,16.0
+F1 Example,CHD49,ND,9.0
+F1 Example,CHD49,ADWIN,9.0
+F1 Example,CHD49,DDM,17.0
+F1 Example,CHD49,EDDM,2.0
+F1 Example,CHD49,FHDDM,9.0
+F1 Example,CHD49,FHDDMS,9.0
+F1 Example,CHD49,FHDDMS_add,9.0
+F1 Example,CHD49,HDDM_A,9.0
+F1 Example,CHD49,HDDM_W,9.0
+F1 Example,CHD49,KSWIN,1.0
+F1 Example,CHD49,MDDM_A,9.0
+F1 Example,CHD49,MDDM_E,9.0
+F1 Example,CHD49,MDDM_G,9.0
+F1 Example,CHD49,SeqDrift2,9.0
+F1 Example,Corel16k,LACE,2.0
+F1 Example,Corel16k,LD3,16.5
+F1 Example,Corel16k,RDDM,1.0
+F1 Example,Corel16k,ND,16.5
+F1 Example,Corel16k,ADWIN,5.0
+F1 Example,Corel16k,DDM,15.0
+F1 Example,Corel16k,EDDM,11.0
+F1 Example,Corel16k,FHDDM,9.0
+F1 Example,Corel16k,FHDDMS,3.0
+F1 Example,Corel16k,FHDDMS_add,4.0
+F1 Example,Corel16k,HDDM_A,14.0
+F1 Example,Corel16k,HDDM_W,12.0
+F1 Example,Corel16k,KSWIN,13.0
+F1 Example,Corel16k,MDDM_A,10.0
+F1 Example,Corel16k,MDDM_E,7.0
+F1 Example,Corel16k,MDDM_G,8.0
+F1 Example,Corel16k,SeqDrift2,6.0
+F1 Example,Corel5k,LACE,1.0
+F1 Example,Corel5k,LD3,8.5
+F1 Example,Corel5k,RDDM,16.0
+F1 Example,Corel5k,ND,8.5
+F1 Example,Corel5k,ADWIN,8.5
+F1 Example,Corel5k,DDM,17.0
+F1 Example,Corel5k,EDDM,8.5
+F1 Example,Corel5k,FHDDM,8.5
+F1 Example,Corel5k,FHDDMS,8.5
+F1 Example,Corel5k,FHDDMS_add,8.5
+F1 Example,Corel5k,HDDM_A,8.5
+F1 Example,Corel5k,HDDM_W,8.5
+F1 Example,Corel5k,KSWIN,8.5
+F1 Example,Corel5k,MDDM_A,8.5
+F1 Example,Corel5k,MDDM_E,8.5
+F1 Example,Corel5k,MDDM_G,8.5
+F1 Example,Corel5k,SeqDrift2,8.5
+F1 Example,Emotions,LACE,8.5
+F1 Example,Emotions,LD3,8.5
+F1 Example,Emotions,RDDM,8.5
+F1 Example,Emotions,ND,8.5
+F1 Example,Emotions,ADWIN,8.5
+F1 Example,Emotions,DDM,8.5
+F1 Example,Emotions,EDDM,17.0
+F1 Example,Emotions,FHDDM,8.5
+F1 Example,Emotions,FHDDMS,8.5
+F1 Example,Emotions,FHDDMS_add,8.5
+F1 Example,Emotions,HDDM_A,8.5
+F1 Example,Emotions,HDDM_W,8.5
+F1 Example,Emotions,KSWIN,8.5
+F1 Example,Emotions,MDDM_A,8.5
+F1 Example,Emotions,MDDM_E,8.5
+F1 Example,Emotions,MDDM_G,8.5
+F1 Example,Emotions,SeqDrift2,8.5
+F1 Example,Eukaryote,LACE,3.0
+F1 Example,Eukaryote,LD3,1.0
+F1 Example,Eukaryote,RDDM,2.0
+F1 Example,Eukaryote,ND,10.5
+F1 Example,Eukaryote,ADWIN,10.5
+F1 Example,Eukaryote,DDM,10.5
+F1 Example,Eukaryote,EDDM,10.5
+F1 Example,Eukaryote,FHDDM,10.5
+F1 Example,Eukaryote,FHDDMS,10.5
+F1 Example,Eukaryote,FHDDMS_add,10.5
+F1 Example,Eukaryote,HDDM_A,10.5
+F1 Example,Eukaryote,HDDM_W,10.5
+F1 Example,Eukaryote,KSWIN,10.5
+F1 Example,Eukaryote,MDDM_A,10.5
+F1 Example,Eukaryote,MDDM_E,10.5
+F1 Example,Eukaryote,MDDM_G,10.5
+F1 Example,Eukaryote,SeqDrift2,10.5
+F1 Example,Flags,LACE,8.5
+F1 Example,Flags,LD3,8.5
+F1 Example,Flags,RDDM,8.5
+F1 Example,Flags,ND,8.5
+F1 Example,Flags,ADWIN,8.5
+F1 Example,Flags,DDM,17.0
+F1 Example,Flags,EDDM,8.5
+F1 Example,Flags,FHDDM,8.5
+F1 Example,Flags,FHDDMS,8.5
+F1 Example,Flags,FHDDMS_add,8.5
+F1 Example,Flags,HDDM_A,8.5
+F1 Example,Flags,HDDM_W,8.5
+F1 Example,Flags,KSWIN,8.5
+F1 Example,Flags,MDDM_A,8.5
+F1 Example,Flags,MDDM_E,8.5
+F1 Example,Flags,MDDM_G,8.5
+F1 Example,Flags,SeqDrift2,8.5
+F1 Example,Genbase,LACE,9.5
+F1 Example,Genbase,LD3,9.5
+F1 Example,Genbase,RDDM,9.5
+F1 Example,Genbase,ND,9.5
+F1 Example,Genbase,ADWIN,9.5
+F1 Example,Genbase,DDM,1.0
+F1 Example,Genbase,EDDM,2.0
+F1 Example,Genbase,FHDDM,9.5
+F1 Example,Genbase,FHDDMS,9.5
+F1 Example,Genbase,FHDDMS_add,9.5
+F1 Example,Genbase,HDDM_A,9.5
+F1 Example,Genbase,HDDM_W,9.5
+F1 Example,Genbase,KSWIN,9.5
+F1 Example,Genbase,MDDM_A,9.5
+F1 Example,Genbase,MDDM_E,9.5
+F1 Example,Genbase,MDDM_G,9.5
+F1 Example,Genbase,SeqDrift2,17.0
+F1 Example,Gnegative,LACE,5.0
+F1 Example,Gnegative,LD3,5.0
+F1 Example,Gnegative,RDDM,7.0
+F1 Example,Gnegative,ND,5.0
+F1 Example,Gnegative,ADWIN,12.0
+F1 Example,Gnegative,DDM,15.0
+F1 Example,Gnegative,EDDM,14.0
+F1 Example,Gnegative,FHDDM,10.0
+F1 Example,Gnegative,FHDDMS,9.0
+F1 Example,Gnegative,FHDDMS_add,8.0
+F1 Example,Gnegative,HDDM_A,17.0
+F1 Example,Gnegative,HDDM_W,16.0
+F1 Example,Gnegative,KSWIN,11.0
+F1 Example,Gnegative,MDDM_A,3.0
+F1 Example,Gnegative,MDDM_E,2.0
+F1 Example,Gnegative,MDDM_G,1.0
+F1 Example,Gnegative,SeqDrift2,13.0
+F1 Example,Human,LACE,4.0
+F1 Example,Human,LD3,2.5
+F1 Example,Human,RDDM,12.0
+F1 Example,Human,ND,2.5
+F1 Example,Human,ADWIN,1.0
+F1 Example,Human,DDM,17.0
+F1 Example,Human,EDDM,15.0
+F1 Example,Human,FHDDM,6.0
+F1 Example,Human,FHDDMS,11.0
+F1 Example,Human,FHDDMS_add,5.0
+F1 Example,Human,HDDM_A,16.0
+F1 Example,Human,HDDM_W,14.0
+F1 Example,Human,KSWIN,13.0
+F1 Example,Human,MDDM_A,8.0
+F1 Example,Human,MDDM_E,9.5
+F1 Example,Human,MDDM_G,9.5
+F1 Example,Human,SeqDrift2,7.0
+F1 Example,Imdb,LACE,4.0
+F1 Example,Imdb,LD3,1.0
+F1 Example,Imdb,RDDM,2.0
+F1 Example,Imdb,ND,12.0
+F1 Example,Imdb,ADWIN,3.0
+F1 Example,Imdb,DDM,6.0
+F1 Example,Imdb,EDDM,5.0
+F1 Example,Imdb,FHDDM,12.0
+F1 Example,Imdb,FHDDMS,12.0
+F1 Example,Imdb,FHDDMS_add,12.0
+F1 Example,Imdb,HDDM_A,12.0
+F1 Example,Imdb,HDDM_W,12.0
+F1 Example,Imdb,KSWIN,12.0
+F1 Example,Imdb,MDDM_A,12.0
+F1 Example,Imdb,MDDM_E,12.0
+F1 Example,Imdb,MDDM_G,12.0
+F1 Example,Imdb,SeqDrift2,12.0
+F1 Example,Langlog,LACE,8.0
+F1 Example,Langlog,LD3,8.0
+F1 Example,Langlog,RDDM,8.0
+F1 Example,Langlog,ND,8.0
+F1 Example,Langlog,ADWIN,8.0
+F1 Example,Langlog,DDM,17.0
+F1 Example,Langlog,EDDM,16.0
+F1 Example,Langlog,FHDDM,8.0
+F1 Example,Langlog,FHDDMS,8.0
+F1 Example,Langlog,FHDDMS_add,8.0
+F1 Example,Langlog,HDDM_A,8.0
+F1 Example,Langlog,HDDM_W,8.0
+F1 Example,Langlog,KSWIN,8.0
+F1 Example,Langlog,MDDM_A,8.0
+F1 Example,Langlog,MDDM_E,8.0
+F1 Example,Langlog,MDDM_G,8.0
+F1 Example,Langlog,SeqDrift2,8.0
+F1 Example,Mediamill,LACE,1.0
+F1 Example,Mediamill,LD3,10.5
+F1 Example,Mediamill,RDDM,2.0
+F1 Example,Mediamill,ND,10.5
+F1 Example,Mediamill,ADWIN,3.0
+F1 Example,Mediamill,DDM,17.0
+F1 Example,Mediamill,EDDM,4.0
+F1 Example,Mediamill,FHDDM,10.5
+F1 Example,Mediamill,FHDDMS,10.5
+F1 Example,Mediamill,FHDDMS_add,10.5
+F1 Example,Mediamill,HDDM_A,10.5
+F1 Example,Mediamill,HDDM_W,10.5
+F1 Example,Mediamill,KSWIN,10.5
+F1 Example,Mediamill,MDDM_A,10.5
+F1 Example,Mediamill,MDDM_E,10.5
+F1 Example,Mediamill,MDDM_G,10.5
+F1 Example,Mediamill,SeqDrift2,10.5
+F1 Example,Medical,LACE,8.0
+F1 Example,Medical,LD3,8.0
+F1 Example,Medical,RDDM,8.0
+F1 Example,Medical,ND,8.0
+F1 Example,Medical,ADWIN,8.0
+F1 Example,Medical,DDM,17.0
+F1 Example,Medical,EDDM,16.0
+F1 Example,Medical,FHDDM,8.0
+F1 Example,Medical,FHDDMS,8.0
+F1 Example,Medical,FHDDMS_add,8.0
+F1 Example,Medical,HDDM_A,8.0
+F1 Example,Medical,HDDM_W,8.0
+F1 Example,Medical,KSWIN,8.0
+F1 Example,Medical,MDDM_A,8.0
+F1 Example,Medical,MDDM_E,8.0
+F1 Example,Medical,MDDM_G,8.0
+F1 Example,Medical,SeqDrift2,8.0
+F1 Example,OHSUMED-F,LACE,14.0
+F1 Example,OHSUMED-F,LD3,11.0
+F1 Example,OHSUMED-F,RDDM,15.0
+F1 Example,OHSUMED-F,ND,5.5
+F1 Example,OHSUMED-F,ADWIN,13.0
+F1 Example,OHSUMED-F,DDM,17.0
+F1 Example,OHSUMED-F,EDDM,16.0
+F1 Example,OHSUMED-F,FHDDM,5.5
+F1 Example,OHSUMED-F,FHDDMS,5.5
+F1 Example,OHSUMED-F,FHDDMS_add,5.5
+F1 Example,OHSUMED-F,HDDM_A,5.5
+F1 Example,OHSUMED-F,HDDM_W,5.5
+F1 Example,OHSUMED-F,KSWIN,5.5
+F1 Example,OHSUMED-F,MDDM_A,5.5
+F1 Example,OHSUMED-F,MDDM_E,5.5
+F1 Example,OHSUMED-F,MDDM_G,5.5
+F1 Example,OHSUMED-F,SeqDrift2,12.0
+F1 Example,Scene,LACE,2.0
+F1 Example,Scene,LD3,3.0
+F1 Example,Scene,RDDM,4.0
+F1 Example,Scene,ND,1.0
+F1 Example,Scene,ADWIN,12.0
+F1 Example,Scene,DDM,17.0
+F1 Example,Scene,EDDM,13.0
+F1 Example,Scene,FHDDM,10.0
+F1 Example,Scene,FHDDMS,11.0
+F1 Example,Scene,FHDDMS_add,6.0
+F1 Example,Scene,HDDM_A,16.0
+F1 Example,Scene,HDDM_W,15.0
+F1 Example,Scene,KSWIN,14.0
+F1 Example,Scene,MDDM_A,9.0
+F1 Example,Scene,MDDM_E,7.5
+F1 Example,Scene,MDDM_G,7.5
+F1 Example,Scene,SeqDrift2,5.0
+F1 Example,Slashdot,LACE,2.5
+F1 Example,Slashdot,LD3,5.0
+F1 Example,Slashdot,RDDM,12.0
+F1 Example,Slashdot,ND,2.5
+F1 Example,Slashdot,ADWIN,13.0
+F1 Example,Slashdot,DDM,17.0
+F1 Example,Slashdot,EDDM,16.0
+F1 Example,Slashdot,FHDDM,9.5
+F1 Example,Slashdot,FHDDMS,9.5
+F1 Example,Slashdot,FHDDMS_add,11.0
+F1 Example,Slashdot,HDDM_A,14.0
+F1 Example,Slashdot,HDDM_W,2.5
+F1 Example,Slashdot,KSWIN,2.5
+F1 Example,Slashdot,MDDM_A,8.0
+F1 Example,Slashdot,MDDM_E,6.5
+F1 Example,Slashdot,MDDM_G,6.5
+F1 Example,Slashdot,SeqDrift2,15.0
+F1 Example,Stackex,LACE,8.5
+F1 Example,Stackex,LD3,8.5
+F1 Example,Stackex,RDDM,8.5
+F1 Example,Stackex,ND,8.5
+F1 Example,Stackex,ADWIN,8.5
+F1 Example,Stackex,DDM,17.0
+F1 Example,Stackex,EDDM,8.5
+F1 Example,Stackex,FHDDM,8.5
+F1 Example,Stackex,FHDDMS,8.5
+F1 Example,Stackex,FHDDMS_add,8.5
+F1 Example,Stackex,HDDM_A,8.5
+F1 Example,Stackex,HDDM_W,8.5
+F1 Example,Stackex,KSWIN,8.5
+F1 Example,Stackex,MDDM_A,8.5
+F1 Example,Stackex,MDDM_E,8.5
+F1 Example,Stackex,MDDM_G,8.5
+F1 Example,Stackex,SeqDrift2,8.5
+F1 Example,VirusGO,LACE,9.0
+F1 Example,VirusGO,LD3,9.0
+F1 Example,VirusGO,RDDM,9.0
+F1 Example,VirusGO,ND,9.0
+F1 Example,VirusGO,ADWIN,9.0
+F1 Example,VirusGO,DDM,9.0
+F1 Example,VirusGO,EDDM,9.0
+F1 Example,VirusGO,FHDDM,9.0
+F1 Example,VirusGO,FHDDMS,9.0
+F1 Example,VirusGO,FHDDMS_add,9.0
+F1 Example,VirusGO,HDDM_A,9.0
+F1 Example,VirusGO,HDDM_W,9.0
+F1 Example,VirusGO,KSWIN,9.0
+F1 Example,VirusGO,MDDM_A,9.0
+F1 Example,VirusGO,MDDM_E,9.0
+F1 Example,VirusGO,MDDM_G,9.0
+F1 Example,VirusGO,SeqDrift2,9.0
+F1 Example,Water-qual,LACE,8.5
+F1 Example,Water-qual,LD3,8.5
+F1 Example,Water-qual,RDDM,8.5
+F1 Example,Water-qual,ND,8.5
+F1 Example,Water-qual,ADWIN,8.5
+F1 Example,Water-qual,DDM,17.0
+F1 Example,Water-qual,EDDM,8.5
+F1 Example,Water-qual,FHDDM,8.5
+F1 Example,Water-qual,FHDDMS,8.5
+F1 Example,Water-qual,FHDDMS_add,8.5
+F1 Example,Water-qual,HDDM_A,8.5
+F1 Example,Water-qual,HDDM_W,8.5
+F1 Example,Water-qual,KSWIN,8.5
+F1 Example,Water-qual,MDDM_A,8.5
+F1 Example,Water-qual,MDDM_E,8.5
+F1 Example,Water-qual,MDDM_G,8.5
+F1 Example,Water-qual,SeqDrift2,8.5
+F1 Example,Yahoo-com,LACE,14.0
+F1 Example,Yahoo-com,LD3,16.0
+F1 Example,Yahoo-com,RDDM,5.5
+F1 Example,Yahoo-com,ND,5.5
+F1 Example,Yahoo-com,ADWIN,13.0
+F1 Example,Yahoo-com,DDM,17.0
+F1 Example,Yahoo-com,EDDM,15.0
+F1 Example,Yahoo-com,FHDDM,5.5
+F1 Example,Yahoo-com,FHDDMS,5.5
+F1 Example,Yahoo-com,FHDDMS_add,5.5
+F1 Example,Yahoo-com,HDDM_A,11.0
+F1 Example,Yahoo-com,HDDM_W,5.5
+F1 Example,Yahoo-com,KSWIN,5.5
+F1 Example,Yahoo-com,MDDM_A,5.5
+F1 Example,Yahoo-com,MDDM_E,5.5
+F1 Example,Yahoo-com,MDDM_G,5.5
+F1 Example,Yahoo-com,SeqDrift2,12.0
+F1 Example,tmc2007-500,LACE,3.0
+F1 Example,tmc2007-500,LD3,1.0
+F1 Example,tmc2007-500,RDDM,2.0
+F1 Example,tmc2007-500,ND,11.0
+F1 Example,tmc2007-500,ADWIN,4.0
+F1 Example,tmc2007-500,DDM,17.0
+F1 Example,tmc2007-500,EDDM,5.0
+F1 Example,tmc2007-500,FHDDM,11.0
+F1 Example,tmc2007-500,FHDDMS,11.0
+F1 Example,tmc2007-500,FHDDMS_add,11.0
+F1 Example,tmc2007-500,HDDM_A,11.0
+F1 Example,tmc2007-500,HDDM_W,11.0
+F1 Example,tmc2007-500,KSWIN,11.0
+F1 Example,tmc2007-500,MDDM_A,11.0
+F1 Example,tmc2007-500,MDDM_E,11.0
+F1 Example,tmc2007-500,MDDM_G,11.0
+F1 Example,tmc2007-500,SeqDrift2,11.0
+F1 Micro,Birds,LACE,7.5
+F1 Micro,Birds,LD3,17.0
+F1 Micro,Birds,RDDM,15.0
+F1 Micro,Birds,ND,7.5
+F1 Micro,Birds,ADWIN,7.5
+F1 Micro,Birds,DDM,16.0
+F1 Micro,Birds,EDDM,7.5
+F1 Micro,Birds,FHDDM,7.5
+F1 Micro,Birds,FHDDMS,7.5
+F1 Micro,Birds,FHDDMS_add,7.5
+F1 Micro,Birds,HDDM_A,7.5
+F1 Micro,Birds,HDDM_W,7.5
+F1 Micro,Birds,KSWIN,7.5
+F1 Micro,Birds,MDDM_A,7.5
+F1 Micro,Birds,MDDM_E,7.5
+F1 Micro,Birds,MDDM_G,7.5
+F1 Micro,Birds,SeqDrift2,7.5
+F1 Micro,CHD49,LACE,8.0
+F1 Micro,CHD49,LD3,8.0
+F1 Micro,CHD49,RDDM,16.0
+F1 Micro,CHD49,ND,8.0
+F1 Micro,CHD49,ADWIN,8.0
+F1 Micro,CHD49,DDM,17.0
+F1 Micro,CHD49,EDDM,15.0
+F1 Micro,CHD49,FHDDM,8.0
+F1 Micro,CHD49,FHDDMS,8.0
+F1 Micro,CHD49,FHDDMS_add,8.0
+F1 Micro,CHD49,HDDM_A,8.0
+F1 Micro,CHD49,HDDM_W,8.0
+F1 Micro,CHD49,KSWIN,1.0
+F1 Micro,CHD49,MDDM_A,8.0
+F1 Micro,CHD49,MDDM_E,8.0
+F1 Micro,CHD49,MDDM_G,8.0
+F1 Micro,CHD49,SeqDrift2,8.0
+F1 Micro,Corel16k,LACE,16.0
+F1 Micro,Corel16k,LD3,12.5
+F1 Micro,Corel16k,RDDM,17.0
+F1 Micro,Corel16k,ND,12.5
+F1 Micro,Corel16k,ADWIN,14.0
+F1 Micro,Corel16k,DDM,15.0
+F1 Micro,Corel16k,EDDM,8.0
+F1 Micro,Corel16k,FHDDM,2.0
+F1 Micro,Corel16k,FHDDMS,7.0
+F1 Micro,Corel16k,FHDDMS_add,6.0
+F1 Micro,Corel16k,HDDM_A,11.0
+F1 Micro,Corel16k,HDDM_W,9.0
+F1 Micro,Corel16k,KSWIN,10.0
+F1 Micro,Corel16k,MDDM_A,5.0
+F1 Micro,Corel16k,MDDM_E,3.0
+F1 Micro,Corel16k,MDDM_G,4.0
+F1 Micro,Corel16k,SeqDrift2,1.0
+F1 Micro,Corel5k,LACE,16.0
+F1 Micro,Corel5k,LD3,7.5
+F1 Micro,Corel5k,RDDM,15.0
+F1 Micro,Corel5k,ND,7.5
+F1 Micro,Corel5k,ADWIN,7.5
+F1 Micro,Corel5k,DDM,17.0
+F1 Micro,Corel5k,EDDM,7.5
+F1 Micro,Corel5k,FHDDM,7.5
+F1 Micro,Corel5k,FHDDMS,7.5
+F1 Micro,Corel5k,FHDDMS_add,7.5
+F1 Micro,Corel5k,HDDM_A,7.5
+F1 Micro,Corel5k,HDDM_W,7.5
+F1 Micro,Corel5k,KSWIN,7.5
+F1 Micro,Corel5k,MDDM_A,7.5
+F1 Micro,Corel5k,MDDM_E,7.5
+F1 Micro,Corel5k,MDDM_G,7.5
+F1 Micro,Corel5k,SeqDrift2,7.5
+F1 Micro,Emotions,LACE,8.5
+F1 Micro,Emotions,LD3,8.5
+F1 Micro,Emotions,RDDM,8.5
+F1 Micro,Emotions,ND,8.5
+F1 Micro,Emotions,ADWIN,8.5
+F1 Micro,Emotions,DDM,8.5
+F1 Micro,Emotions,EDDM,17.0
+F1 Micro,Emotions,FHDDM,8.5
+F1 Micro,Emotions,FHDDMS,8.5
+F1 Micro,Emotions,FHDDMS_add,8.5
+F1 Micro,Emotions,HDDM_A,8.5
+F1 Micro,Emotions,HDDM_W,8.5
+F1 Micro,Emotions,KSWIN,8.5
+F1 Micro,Emotions,MDDM_A,8.5
+F1 Micro,Emotions,MDDM_E,8.5
+F1 Micro,Emotions,MDDM_G,8.5
+F1 Micro,Emotions,SeqDrift2,8.5
+F1 Micro,Eukaryote,LACE,3.0
+F1 Micro,Eukaryote,LD3,1.0
+F1 Micro,Eukaryote,RDDM,2.0
+F1 Micro,Eukaryote,ND,10.5
+F1 Micro,Eukaryote,ADWIN,10.5
+F1 Micro,Eukaryote,DDM,10.5
+F1 Micro,Eukaryote,EDDM,10.5
+F1 Micro,Eukaryote,FHDDM,10.5
+F1 Micro,Eukaryote,FHDDMS,10.5
+F1 Micro,Eukaryote,FHDDMS_add,10.5
+F1 Micro,Eukaryote,HDDM_A,10.5
+F1 Micro,Eukaryote,HDDM_W,10.5
+F1 Micro,Eukaryote,KSWIN,10.5
+F1 Micro,Eukaryote,MDDM_A,10.5
+F1 Micro,Eukaryote,MDDM_E,10.5
+F1 Micro,Eukaryote,MDDM_G,10.5
+F1 Micro,Eukaryote,SeqDrift2,10.5
+F1 Micro,Flags,LACE,8.5
+F1 Micro,Flags,LD3,8.5
+F1 Micro,Flags,RDDM,8.5
+F1 Micro,Flags,ND,8.5
+F1 Micro,Flags,ADWIN,8.5
+F1 Micro,Flags,DDM,17.0
+F1 Micro,Flags,EDDM,8.5
+F1 Micro,Flags,FHDDM,8.5
+F1 Micro,Flags,FHDDMS,8.5
+F1 Micro,Flags,FHDDMS_add,8.5
+F1 Micro,Flags,HDDM_A,8.5
+F1 Micro,Flags,HDDM_W,8.5
+F1 Micro,Flags,KSWIN,8.5
+F1 Micro,Flags,MDDM_A,8.5
+F1 Micro,Flags,MDDM_E,8.5
+F1 Micro,Flags,MDDM_G,8.5
+F1 Micro,Flags,SeqDrift2,8.5
+F1 Micro,Genbase,LACE,9.5
+F1 Micro,Genbase,LD3,9.5
+F1 Micro,Genbase,RDDM,9.5
+F1 Micro,Genbase,ND,9.5
+F1 Micro,Genbase,ADWIN,9.5
+F1 Micro,Genbase,DDM,1.0
+F1 Micro,Genbase,EDDM,2.0
+F1 Micro,Genbase,FHDDM,9.5
+F1 Micro,Genbase,FHDDMS,9.5
+F1 Micro,Genbase,FHDDMS_add,9.5
+F1 Micro,Genbase,HDDM_A,9.5
+F1 Micro,Genbase,HDDM_W,9.5
+F1 Micro,Genbase,KSWIN,9.5
+F1 Micro,Genbase,MDDM_A,9.5
+F1 Micro,Genbase,MDDM_E,9.5
+F1 Micro,Genbase,MDDM_G,9.5
+F1 Micro,Genbase,SeqDrift2,17.0
+F1 Micro,Gnegative,LACE,2.0
+F1 Micro,Gnegative,LD3,2.0
+F1 Micro,Gnegative,RDDM,4.0
+F1 Micro,Gnegative,ND,2.0
+F1 Micro,Gnegative,ADWIN,11.0
+F1 Micro,Gnegative,DDM,16.0
+F1 Micro,Gnegative,EDDM,14.0
+F1 Micro,Gnegative,FHDDM,9.0
+F1 Micro,Gnegative,FHDDMS,12.0
+F1 Micro,Gnegative,FHDDMS_add,6.0
+F1 Micro,Gnegative,HDDM_A,17.0
+F1 Micro,Gnegative,HDDM_W,15.0
+F1 Micro,Gnegative,KSWIN,10.0
+F1 Micro,Gnegative,MDDM_A,7.0
+F1 Micro,Gnegative,MDDM_E,8.0
+F1 Micro,Gnegative,MDDM_G,5.0
+F1 Micro,Gnegative,SeqDrift2,13.0
+F1 Micro,Human,LACE,4.0
+F1 Micro,Human,LD3,2.5
+F1 Micro,Human,RDDM,11.0
+F1 Micro,Human,ND,2.5
+F1 Micro,Human,ADWIN,1.0
+F1 Micro,Human,DDM,17.0
+F1 Micro,Human,EDDM,14.0
+F1 Micro,Human,FHDDM,6.0
+F1 Micro,Human,FHDDMS,12.0
+F1 Micro,Human,FHDDMS_add,7.0
+F1 Micro,Human,HDDM_A,16.0
+F1 Micro,Human,HDDM_W,15.0
+F1 Micro,Human,KSWIN,13.0
+F1 Micro,Human,MDDM_A,8.0
+F1 Micro,Human,MDDM_E,9.5
+F1 Micro,Human,MDDM_G,9.5
+F1 Micro,Human,SeqDrift2,5.0
+F1 Micro,Imdb,LACE,4.0
+F1 Micro,Imdb,LD3,1.0
+F1 Micro,Imdb,RDDM,2.0
+F1 Micro,Imdb,ND,12.0
+F1 Micro,Imdb,ADWIN,3.0
+F1 Micro,Imdb,DDM,6.0
+F1 Micro,Imdb,EDDM,5.0
+F1 Micro,Imdb,FHDDM,12.0
+F1 Micro,Imdb,FHDDMS,12.0
+F1 Micro,Imdb,FHDDMS_add,12.0
+F1 Micro,Imdb,HDDM_A,12.0
+F1 Micro,Imdb,HDDM_W,12.0
+F1 Micro,Imdb,KSWIN,12.0
+F1 Micro,Imdb,MDDM_A,12.0
+F1 Micro,Imdb,MDDM_E,12.0
+F1 Micro,Imdb,MDDM_G,12.0
+F1 Micro,Imdb,SeqDrift2,12.0
+F1 Micro,Langlog,LACE,8.0
+F1 Micro,Langlog,LD3,8.0
+F1 Micro,Langlog,RDDM,8.0
+F1 Micro,Langlog,ND,8.0
+F1 Micro,Langlog,ADWIN,8.0
+F1 Micro,Langlog,DDM,17.0
+F1 Micro,Langlog,EDDM,16.0
+F1 Micro,Langlog,FHDDM,8.0
+F1 Micro,Langlog,FHDDMS,8.0
+F1 Micro,Langlog,FHDDMS_add,8.0
+F1 Micro,Langlog,HDDM_A,8.0
+F1 Micro,Langlog,HDDM_W,8.0
+F1 Micro,Langlog,KSWIN,8.0
+F1 Micro,Langlog,MDDM_A,8.0
+F1 Micro,Langlog,MDDM_E,8.0
+F1 Micro,Langlog,MDDM_G,8.0
+F1 Micro,Langlog,SeqDrift2,8.0
+F1 Micro,Mediamill,LACE,3.0
+F1 Micro,Mediamill,LD3,10.5
+F1 Micro,Mediamill,RDDM,1.0
+F1 Micro,Mediamill,ND,10.5
+F1 Micro,Mediamill,ADWIN,4.0
+F1 Micro,Mediamill,DDM,17.0
+F1 Micro,Mediamill,EDDM,2.0
+F1 Micro,Mediamill,FHDDM,10.5
+F1 Micro,Mediamill,FHDDMS,10.5
+F1 Micro,Mediamill,FHDDMS_add,10.5
+F1 Micro,Mediamill,HDDM_A,10.5
+F1 Micro,Mediamill,HDDM_W,10.5
+F1 Micro,Mediamill,KSWIN,10.5
+F1 Micro,Mediamill,MDDM_A,10.5
+F1 Micro,Mediamill,MDDM_E,10.5
+F1 Micro,Mediamill,MDDM_G,10.5
+F1 Micro,Mediamill,SeqDrift2,10.5
+F1 Micro,Medical,LACE,8.0
+F1 Micro,Medical,LD3,8.0
+F1 Micro,Medical,RDDM,8.0
+F1 Micro,Medical,ND,8.0
+F1 Micro,Medical,ADWIN,8.0
+F1 Micro,Medical,DDM,17.0
+F1 Micro,Medical,EDDM,16.0
+F1 Micro,Medical,FHDDM,8.0
+F1 Micro,Medical,FHDDMS,8.0
+F1 Micro,Medical,FHDDMS_add,8.0
+F1 Micro,Medical,HDDM_A,8.0
+F1 Micro,Medical,HDDM_W,8.0
+F1 Micro,Medical,KSWIN,8.0
+F1 Micro,Medical,MDDM_A,8.0
+F1 Micro,Medical,MDDM_E,8.0
+F1 Micro,Medical,MDDM_G,8.0
+F1 Micro,Medical,SeqDrift2,8.0
+F1 Micro,OHSUMED-F,LACE,14.0
+F1 Micro,OHSUMED-F,LD3,1.0
+F1 Micro,OHSUMED-F,RDDM,15.0
+F1 Micro,OHSUMED-F,ND,7.5
+F1 Micro,OHSUMED-F,ADWIN,2.0
+F1 Micro,OHSUMED-F,DDM,17.0
+F1 Micro,OHSUMED-F,EDDM,16.0
+F1 Micro,OHSUMED-F,FHDDM,7.5
+F1 Micro,OHSUMED-F,FHDDMS,7.5
+F1 Micro,OHSUMED-F,FHDDMS_add,7.5
+F1 Micro,OHSUMED-F,HDDM_A,7.5
+F1 Micro,OHSUMED-F,HDDM_W,7.5
+F1 Micro,OHSUMED-F,KSWIN,7.5
+F1 Micro,OHSUMED-F,MDDM_A,7.5
+F1 Micro,OHSUMED-F,MDDM_E,7.5
+F1 Micro,OHSUMED-F,MDDM_G,7.5
+F1 Micro,OHSUMED-F,SeqDrift2,13.0
+F1 Micro,Scene,LACE,2.0
+F1 Micro,Scene,LD3,3.0
+F1 Micro,Scene,RDDM,4.0
+F1 Micro,Scene,ND,1.0
+F1 Micro,Scene,ADWIN,12.0
+F1 Micro,Scene,DDM,17.0
+F1 Micro,Scene,EDDM,14.0
+F1 Micro,Scene,FHDDM,10.0
+F1 Micro,Scene,FHDDMS,11.0
+F1 Micro,Scene,FHDDMS_add,6.0
+F1 Micro,Scene,HDDM_A,16.0
+F1 Micro,Scene,HDDM_W,15.0
+F1 Micro,Scene,KSWIN,13.0
+F1 Micro,Scene,MDDM_A,9.0
+F1 Micro,Scene,MDDM_E,7.5
+F1 Micro,Scene,MDDM_G,7.5
+F1 Micro,Scene,SeqDrift2,5.0
+F1 Micro,Slashdot,LACE,2.5
+F1 Micro,Slashdot,LD3,5.0
+F1 Micro,Slashdot,RDDM,8.0
+F1 Micro,Slashdot,ND,2.5
+F1 Micro,Slashdot,ADWIN,13.0
+F1 Micro,Slashdot,DDM,17.0
+F1 Micro,Slashdot,EDDM,15.0
+F1 Micro,Slashdot,FHDDM,11.5
+F1 Micro,Slashdot,FHDDMS,11.5
+F1 Micro,Slashdot,FHDDMS_add,10.0
+F1 Micro,Slashdot,HDDM_A,14.0
+F1 Micro,Slashdot,HDDM_W,2.5
+F1 Micro,Slashdot,KSWIN,2.5
+F1 Micro,Slashdot,MDDM_A,9.0
+F1 Micro,Slashdot,MDDM_E,6.5
+F1 Micro,Slashdot,MDDM_G,6.5
+F1 Micro,Slashdot,SeqDrift2,16.0
+F1 Micro,Stackex,LACE,8.5
+F1 Micro,Stackex,LD3,8.5
+F1 Micro,Stackex,RDDM,8.5
+F1 Micro,Stackex,ND,8.5
+F1 Micro,Stackex,ADWIN,8.5
+F1 Micro,Stackex,DDM,17.0
+F1 Micro,Stackex,EDDM,8.5
+F1 Micro,Stackex,FHDDM,8.5
+F1 Micro,Stackex,FHDDMS,8.5
+F1 Micro,Stackex,FHDDMS_add,8.5
+F1 Micro,Stackex,HDDM_A,8.5
+F1 Micro,Stackex,HDDM_W,8.5
+F1 Micro,Stackex,KSWIN,8.5
+F1 Micro,Stackex,MDDM_A,8.5
+F1 Micro,Stackex,MDDM_E,8.5
+F1 Micro,Stackex,MDDM_G,8.5
+F1 Micro,Stackex,SeqDrift2,8.5
+F1 Micro,VirusGO,LACE,9.0
+F1 Micro,VirusGO,LD3,9.0
+F1 Micro,VirusGO,RDDM,9.0
+F1 Micro,VirusGO,ND,9.0
+F1 Micro,VirusGO,ADWIN,9.0
+F1 Micro,VirusGO,DDM,9.0
+F1 Micro,VirusGO,EDDM,9.0
+F1 Micro,VirusGO,FHDDM,9.0
+F1 Micro,VirusGO,FHDDMS,9.0
+F1 Micro,VirusGO,FHDDMS_add,9.0
+F1 Micro,VirusGO,HDDM_A,9.0
+F1 Micro,VirusGO,HDDM_W,9.0
+F1 Micro,VirusGO,KSWIN,9.0
+F1 Micro,VirusGO,MDDM_A,9.0
+F1 Micro,VirusGO,MDDM_E,9.0
+F1 Micro,VirusGO,MDDM_G,9.0
+F1 Micro,VirusGO,SeqDrift2,9.0
+F1 Micro,Water-qual,LACE,8.5
+F1 Micro,Water-qual,LD3,8.5
+F1 Micro,Water-qual,RDDM,8.5
+F1 Micro,Water-qual,ND,8.5
+F1 Micro,Water-qual,ADWIN,8.5
+F1 Micro,Water-qual,DDM,17.0
+F1 Micro,Water-qual,EDDM,8.5
+F1 Micro,Water-qual,FHDDM,8.5
+F1 Micro,Water-qual,FHDDMS,8.5
+F1 Micro,Water-qual,FHDDMS_add,8.5
+F1 Micro,Water-qual,HDDM_A,8.5
+F1 Micro,Water-qual,HDDM_W,8.5
+F1 Micro,Water-qual,KSWIN,8.5
+F1 Micro,Water-qual,MDDM_A,8.5
+F1 Micro,Water-qual,MDDM_E,8.5
+F1 Micro,Water-qual,MDDM_G,8.5
+F1 Micro,Water-qual,SeqDrift2,8.5
+F1 Micro,Yahoo-com,LACE,14.0
+F1 Micro,Yahoo-com,LD3,16.0
+F1 Micro,Yahoo-com,RDDM,5.5
+F1 Micro,Yahoo-com,ND,5.5
+F1 Micro,Yahoo-com,ADWIN,13.0
+F1 Micro,Yahoo-com,DDM,17.0
+F1 Micro,Yahoo-com,EDDM,15.0
+F1 Micro,Yahoo-com,FHDDM,5.5
+F1 Micro,Yahoo-com,FHDDMS,5.5
+F1 Micro,Yahoo-com,FHDDMS_add,5.5
+F1 Micro,Yahoo-com,HDDM_A,11.0
+F1 Micro,Yahoo-com,HDDM_W,5.5
+F1 Micro,Yahoo-com,KSWIN,5.5
+F1 Micro,Yahoo-com,MDDM_A,5.5
+F1 Micro,Yahoo-com,MDDM_E,5.5
+F1 Micro,Yahoo-com,MDDM_G,5.5
+F1 Micro,Yahoo-com,SeqDrift2,12.0
+F1 Micro,tmc2007-500,LACE,4.0
+F1 Micro,tmc2007-500,LD3,2.0
+F1 Micro,tmc2007-500,RDDM,1.0
+F1 Micro,tmc2007-500,ND,11.0
+F1 Micro,tmc2007-500,ADWIN,3.0
+F1 Micro,tmc2007-500,DDM,17.0
+F1 Micro,tmc2007-500,EDDM,5.0
+F1 Micro,tmc2007-500,FHDDM,11.0
+F1 Micro,tmc2007-500,FHDDMS,11.0
+F1 Micro,tmc2007-500,FHDDMS_add,11.0
+F1 Micro,tmc2007-500,HDDM_A,11.0
+F1 Micro,tmc2007-500,HDDM_W,11.0
+F1 Micro,tmc2007-500,KSWIN,11.0
+F1 Micro,tmc2007-500,MDDM_A,11.0
+F1 Micro,tmc2007-500,MDDM_E,11.0
+F1 Micro,tmc2007-500,MDDM_G,11.0
+F1 Micro,tmc2007-500,SeqDrift2,11.0

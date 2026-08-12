@@ -1,0 +1,14 @@
+method,Synthetic_Sudden1,Synthetic_Sudden2,Synthetic_Sudden3,Synthetic_Incremental1,Synthetic_Incremental2,Synthetic_Incremental3,Synthetic_Reoccurring
+C3M_MC_NVI,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_MC_NoNVI,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_NoMC_NVI_sim010,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_NoMC_NVI_sim025,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_NoMC_NVI_sim035,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_NoMC_NVI_sim050,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_NoMC_NoNVI_sim010,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_NoMC_NoNVI_sim025,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_NoMC_NoNVI_sim035,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C3M_NoMC_NoNVI_sim050,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LACE-Agglo_best,1.0,1.0,1.0,1.0,1.0,1.0,0.5
+LACE-C3M_best,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LACE-KMeans_best,1.0,1.0,1.0,1.0,1.0,1.0,1.0

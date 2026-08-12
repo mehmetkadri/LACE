@@ -1,0 +1,22 @@
+\begin{table}
+\caption{Top LACE hyperparameter-sensitivity summary. Predictive-performance columns report mean ranks over retained real datasets, with Pred. averaging the displayed predictive mean ranks. MDR and DFD are averaged over synthetic datasets; Time is reported in seconds and Time/Item in centiseconds over all available datasets.}
+\label{tab:sensitivity_summary}
+\begin{tabular}{rrrrrrrrrrrrr}
+\toprule
+ &  &  &  & \multicolumn{5}{c}{Predictive Performance Mean Ranks} & \multicolumn{2}{c}{Drift Detection} & \multicolumn{2}{c}{Efficiency} \\
+\cmidrule(lr){5-9} \cmidrule(lr){10-11} \cmidrule(lr){12-13}
+$w$ & $\tau_l$ & $\tau_u$ & $\tau_{NVI}$ & Overall & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ & MDR & DFD & Time (s) & Time/Item (cs) \\
+\midrule
+500 & 0.05 & 0.50 & 0.50 & \textbf{27.7727} & 28.1818 & 30.1364 & \underline{25.3182} & 27.4545 & \textbf{0.0000} & \textbf{219.43} & \textbf{621.40} & 5.27 \\
+500 & 0.05 & 0.60 & 0.50 & \textbf{27.7727} & 28.1818 & 30.1364 & \underline{25.3182} & 27.4545 & \textbf{0.0000} & \textbf{219.43} & 818.84 & 5.72 \\
+500 & 0.05 & 0.60 & 0.35 & \underline{28.1364} & \textbf{27.4091} & 30.7727 & \textbf{25.2273} & 29.1364 & \textbf{0.0000} & \textbf{219.43} & 666.07 & \underline{4.84} \\
+500 & 0.05 & 0.50 & 0.35 & \underline{28.1364} & \textbf{27.4091} & 30.7727 & \textbf{25.2273} & 29.1364 & \textbf{0.0000} & \textbf{219.43} & 669.53 & 5.00 \\
+500 & 0.00 & 0.50 & 0.50 & 28.6818 & 31.5000 & \textbf{28.4091} & 29.0455 & \textbf{25.7727} & \textbf{0.0000} & 700.71 & 695.00 & 4.91 \\
+500 & 0.05 & 0.50 & 0.25 & 28.9659 & \underline{27.6818} & 32.1818 & 26.1818 & 29.8182 & \textbf{0.0000} & \textbf{219.43} & \underline{626.71} & \textbf{4.72} \\
+500 & 0.05 & 0.60 & 0.25 & 28.9659 & \underline{27.6818} & 32.1818 & 26.1818 & 29.8182 & \textbf{0.0000} & \textbf{219.43} & 740.68 & 5.14 \\
+500 & 0.00 & 0.50 & 0.35 & 29.4205 & 32.5455 & \underline{29.4545} & 29.5000 & \underline{26.1818} & \textbf{0.0000} & 700.71 & 831.94 & 5.43 \\
+500 & 0.00 & 0.50 & 0.25 & 29.7727 & 32.5682 & 30.2500 & 29.7500 & 26.5227 & \textbf{0.0000} & 700.71 & 813.98 & 5.85 \\
+1000 & 0.05 & 0.50 & 0.35 & 30.2159 & 32.1591 & 29.5227 & 30.0227 & 29.1591 & \textbf{0.0000} & \underline{514.86} & 645.52 & 5.30 \\
+\bottomrule
+\end{tabular}
+\end{table}

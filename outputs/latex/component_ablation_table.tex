@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Component ablation results for C3M\_* variants. Effectiveness mean rank is computed over retained real datasets; raw effectiveness, drift, and runtime metrics are averaged over their corresponding datasets.}
+\label{tab:component_ablation_results}
+\begin{tabular}{llllllllllll}
+\toprule
+Monte Carlo & NVI & Tau & Effectiveness & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ & MDR & DFD & Time & Time/Item (cs) \\
+\midrule
+$\checkmark$ & $\checkmark$ & $\times$ & \textbf{3.5568} & \textbf{0.2284} & \textbf{0.6852} & \textbf{0.2969} & \textbf{0.2626} & \textbf{0.0000} & 219.43 & 611.43 & 4.56 \\
+$\checkmark$ & $\times$ & $\times$ & \underline{3.8636} & 0.2259 & \underline{0.6755} & \underline{0.2947} & \underline{0.2614} & \textbf{0.0000} & 219.43 & 609.08 & 4.53 \\
+$\times$ & $\checkmark$ & 0.10 & 4.0909 & \underline{0.2261} & 0.6716 & 0.2930 & 0.2550 & \textbf{0.0000} & 222.29 & 701.06 & 4.83 \\
+$\times$ & $\times$ & 0.10 & 4.2727 & 0.2237 & 0.6642 & 0.2896 & 0.2532 & \textbf{0.0000} & 222.29 & 714.95 & 5.02 \\
+$\times$ & $\times$ & 0.25 & 5.5000 & 0.2158 & 0.6258 & 0.2786 & 0.2450 & \textbf{0.0000} & \underline{194.64} & 701.59 & 5.35 \\
+$\times$ & $\checkmark$ & 0.25 & 5.5568 & 0.2161 & 0.6279 & 0.2794 & 0.2448 & \textbf{0.0000} & \underline{194.64} & 801.05 & 5.18 \\
+$\times$ & $\times$ & 0.35 & 6.6591 & 0.2109 & 0.6176 & 0.2719 & 0.2406 & \textbf{0.0000} & \textbf{119.07} & 644.90 & \underline{4.44} \\
+$\times$ & $\checkmark$ & 0.35 & 6.7614 & 0.2101 & 0.6168 & 0.2716 & 0.2401 & \textbf{0.0000} & \textbf{119.07} & 768.28 & 5.23 \\
+$\times$ & $\times$ & 0.50 & 7.3295 & 0.2099 & 0.6082 & 0.2704 & 0.2394 & \textbf{0.0000} & \textbf{119.07} & \underline{593.89} & 4.45 \\
+$\times$ & $\checkmark$ & 0.50 & 7.4091 & 0.2092 & 0.6076 & 0.2702 & 0.2389 & \textbf{0.0000} & \textbf{119.07} & \textbf{574.08} & \textbf{4.35} \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,22 @@
+\begin{table}
+\caption{Component ablation summary for C3M\_* variants. Predictive-performance columns report mean ranks over retained real datasets, with Pred. averaging the displayed predictive mean ranks. MDR and DFD are averaged over synthetic datasets; Time is reported in seconds and Time/Item in centiseconds over all available datasets.}
+\label{tab:component_ablation_summary}
+\begin{tabular}{ccrrrrrrrrrr}
+\toprule
+ &  &  & \multicolumn{5}{c}{Predictive Performance Mean Ranks} & \multicolumn{2}{c}{Drift Detection} & \multicolumn{2}{c}{Efficiency} \\
+\cmidrule(lr){4-8} \cmidrule(lr){9-10} \cmidrule(lr){11-12}
+Monte Carlo & NVI & Tau & Overall & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ & MDR & DFD & Time (s) & Time/Item (cs) \\
+\midrule
+$\checkmark$ & $\checkmark$ & $\times$ & \textbf{3.5568} & \textbf{3.5455} & \textbf{3.8182} & \textbf{3.5000} & \textbf{3.3636} & \textbf{0.0000} & 219.43 & 611.43 & 4.56 \\
+$\checkmark$ & $\times$ & $\times$ & \underline{3.8636} & \underline{3.8636} & \underline{4.1364} & \underline{3.7727} & \underline{3.6818} & \textbf{0.0000} & 219.43 & 609.08 & 4.53 \\
+$\times$ & $\checkmark$ & 0.10 & 4.0909 & 4.0000 & 4.2727 & 4.0000 & 4.0909 & \textbf{0.0000} & 222.29 & 701.06 & 4.83 \\
+$\times$ & $\times$ & 0.10 & 4.2727 & 4.1818 & 4.4545 & 4.1818 & 4.2727 & \textbf{0.0000} & 222.29 & 714.95 & 5.02 \\
+$\times$ & $\times$ & 0.25 & 5.5000 & 5.4318 & 5.5227 & 5.5227 & 5.5227 & \textbf{0.0000} & \underline{194.64} & 701.59 & 5.35 \\
+$\times$ & $\checkmark$ & 0.25 & 5.5568 & 5.4773 & 5.6136 & 5.5227 & 5.6136 & \textbf{0.0000} & \underline{194.64} & 801.05 & 5.18 \\
+$\times$ & $\times$ & 0.35 & 6.6591 & 6.7727 & 6.3636 & 6.7727 & 6.7273 & \textbf{0.0000} & \textbf{119.07} & 644.90 & \underline{4.44} \\
+$\times$ & $\checkmark$ & 0.35 & 6.7614 & 6.8409 & 6.5227 & 6.8409 & 6.8409 & \textbf{0.0000} & \textbf{119.07} & 768.28 & 5.23 \\
+$\times$ & $\times$ & 0.50 & 7.3295 & 7.4091 & 7.0909 & 7.4091 & 7.4091 & \textbf{0.0000} & \textbf{119.07} & \underline{593.89} & 4.45 \\
+$\times$ & $\checkmark$ & 0.50 & 7.4091 & 7.4773 & 7.2045 & 7.4773 & 7.4773 & \textbf{0.0000} & \textbf{119.07} & \textbf{574.08} & \textbf{4.35} \\
+\bottomrule
+\end{tabular}
+\end{table}

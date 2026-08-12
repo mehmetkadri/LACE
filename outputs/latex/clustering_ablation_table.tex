@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Clustering ablation results for LACE-*\_best variants. Effectiveness mean rank is computed over retained real datasets; raw effectiveness, drift, and runtime metrics are averaged over their corresponding datasets.}
+\label{tab:clustering_ablation_results}
+\begin{tabular}{llllllllll}
+\toprule
+Clustering & Effectiveness & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ & MDR & DFD & Time & Time/Item (cs) \\
+\midrule
+$C^3$M & \textbf{1.7500} & \textbf{0.2284} & \underline{0.6852} & \textbf{0.2969} & \textbf{0.2626} & \textbf{0.0000} & \textbf{219.43} & 791.81 & 6.28 \\
+KMeans & \underline{2.0227} & 0.2178 & \textbf{0.7125} & 0.2847 & \underline{0.2584} & 1.0000 & -- & \textbf{567.59} & \textbf{4.45} \\
+Agglomerative & 2.2273 & \underline{0.2212} & 0.6482 & \underline{0.2873} & 0.2512 & \underline{0.9286} & \underline{804.00} & \underline{784.82} & \underline{6.13} \\
+\bottomrule
+\end{tabular}
+\end{table}

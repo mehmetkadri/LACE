@@ -1,0 +1,29 @@
+\begin{table}
+\caption{Baseline summary. Predictive-performance columns report mean ranks over retained real datasets, with Pred. averaging the displayed predictive mean ranks. MDR and DFD are averaged over synthetic datasets; Time is reported in seconds and Time/Item in centiseconds over all available datasets.}
+\label{tab:baseline_summary}
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+ & \multicolumn{5}{c}{Predictive Performance Mean Ranks} & \multicolumn{2}{c}{Drift Detection} & \multicolumn{2}{c}{Efficiency} \\
+\cmidrule(lr){2-6} \cmidrule(lr){7-8} \cmidrule(lr){9-10}
+Variant & Overall & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ & MDR & DFD & Time (s) & Time/Item (cs) \\
+\midrule
+\textbf{LACE} & \textbf{6.9886} & \textbf{6.1591} & 7.7500 & \textbf{6.3864} & \underline{7.6591} & \textbf{0.0000} & \underline{219.43} & 621.40 & 5.27 \\
+LD3 & \underline{7.2955} & 7.2955 & \textbf{6.7500} & \underline{7.9773} & \textbf{7.1591} & \textbf{0.0000} & 1411.00 & 867.24 & 6.76 \\
+RDDM & 7.7273 & \underline{6.5455} & 7.7727 & 8.1818 & 8.4091 & 0.5714 & \textbf{150.17} & \underline{572.42} & 4.48 \\
+ND & 7.8523 & 8.4545 & \underline{7.2727} & 8.0000 & 7.6818 & 1.0000 & -- & 601.27 & 4.68 \\
+ADWIN & 8.0511 & 7.6818 & 8.1136 & 8.3182 & 8.0909 & 0.8571 & 2528.00 & 643.18 & 4.99 \\
+FHDDMS\_add & 8.3750 & 8.3864 & 8.4773 & 8.2955 & 8.3409 & 1.0000 & -- & 614.83 & 4.43 \\
+MDDM\_G & 8.4034 & 8.4545 & 8.7045 & 8.2273 & 8.2273 & 1.0000 & -- & 692.10 & 5.36 \\
+MDDM\_E & 8.4205 & 8.3182 & 8.8182 & 8.2273 & 8.3182 & 1.0000 & -- & 711.10 & 5.71 \\
+MDDM\_A & 8.5909 & 8.6136 & 8.7955 & 8.4773 & 8.4773 & 1.0000 & -- & 671.61 & 5.59 \\
+FHDDM & 8.6250 & 8.8182 & 8.4091 & 8.7727 & 8.5000 & 1.0000 & -- & 575.35 & \underline{4.20} \\
+KSWIN & 8.8977 & 9.4545 & 8.6818 & 8.8182 & 8.6364 & 1.0000 & -- & 590.43 & 4.57 \\
+FHDDMS & 9.0227 & 8.8182 & 9.3636 & 8.7273 & 9.1818 & 1.0000 & -- & 616.38 & 4.47 \\
+SeqDrift2 & 9.5682 & 10.2273 & 8.8182 & 9.7727 & 9.4545 & 1.0000 & -- & 704.39 & 5.49 \\
+HDDM\_W & 9.5909 & 10.0455 & 9.5455 & 9.4545 & 9.3182 & 1.0000 & -- & 691.24 & 5.16 \\
+HDDM\_A & 10.4886 & 10.7273 & 10.3636 & 10.5000 & 10.3636 & 1.0000 & -- & 587.82 & 4.96 \\
+EDDM & 10.7159 & 11.0455 & 10.8182 & 10.3636 & 10.6364 & 1.0000 & -- & 633.36 & 4.86 \\
+DDM & 14.3864 & 13.9545 & 14.5455 & 14.5000 & 14.5455 & \underline{0.1429} & 1459.08 & \textbf{535.11} & \textbf{4.19} \\
+\bottomrule
+\end{tabular}
+\end{table}

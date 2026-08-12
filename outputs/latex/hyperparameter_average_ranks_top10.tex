@@ -1,0 +1,21 @@
+\begin{table*}[t]
+\centering
+\caption{Top hyperparameter settings by average predictive rank. Predictive metrics are average ranks; MDR, DFD, and runtime per item are average values. Lower is better.}
+\label{tab:hyperparameter_average_ranks}
+\begin{tabular}{rrrrrrrrrrrr}
+\toprule
+$w$ & $\tau_l$ & $\tau_u$ & $\tau_{NVI}$ & Effectiveness & $Accuracy_{ex}$ & Hamming & $F1_{ex}$ & $F1_{micro}$ & MDR & DFD & Runtime per Item (cs) \\
+\midrule
+500 & 0.05 & 0.50 & 0.50 & \textbf{27.77} & 28.18 & 30.14 & \underline{25.32} & 27.45 & \textbf{0.0000} & \textbf{219.43} & 5.27 \\
+500 & 0.05 & 0.60 & 0.50 & \textbf{27.77} & 28.18 & 30.14 & \underline{25.32} & 27.45 & \textbf{0.0000} & \textbf{219.43} & 5.72 \\
+500 & 0.05 & 0.50 & 0.35 & \underline{28.14} & \textbf{27.41} & 30.77 & \textbf{25.23} & 29.14 & \textbf{0.0000} & \textbf{219.43} & 5.00 \\
+500 & 0.05 & 0.60 & 0.35 & \underline{28.14} & \textbf{27.41} & 30.77 & \textbf{25.23} & 29.14 & \textbf{0.0000} & \textbf{219.43} & \underline{4.84} \\
+500 & 0.00 & 0.50 & 0.50 & 28.68 & 31.50 & \textbf{28.41} & 29.05 & \textbf{25.77} & \textbf{0.0000} & 700.71 & 4.91 \\
+500 & 0.05 & 0.50 & 0.25 & 28.97 & \underline{27.68} & 32.18 & 26.18 & 29.82 & \textbf{0.0000} & \textbf{219.43} & \textbf{4.72} \\
+500 & 0.05 & 0.60 & 0.25 & 28.97 & \underline{27.68} & 32.18 & 26.18 & 29.82 & \textbf{0.0000} & \textbf{219.43} & 5.14 \\
+500 & 0.00 & 0.50 & 0.35 & 29.42 & 32.55 & \underline{29.45} & 29.50 & \underline{26.18} & \textbf{0.0000} & 700.71 & 5.43 \\
+500 & 0.00 & 0.50 & 0.25 & 29.77 & 32.57 & 30.25 & 29.75 & 26.52 & \textbf{0.0000} & 700.71 & 5.85 \\
+1000 & 0.05 & 0.50 & 0.35 & 30.22 & 32.16 & 29.52 & 30.02 & 29.16 & \textbf{0.0000} & \underline{514.86} & 5.30 \\
+\bottomrule
+\end{tabular}
+\end{table*}

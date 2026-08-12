@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Component ablation per-dataset DFD values. Lower values are better.}
+\label{tab:per-data-component-ablation-delay-for-detection}
+\begin{tabular}{ccrrrrrrrr}
+\toprule
+Monte Carlo & NVI & Tau & Synthetic\_Sudden1 & Synthetic\_Sudden2 & Synthetic\_Sudden3 & Synthetic\_Incremental1 & Synthetic\_Incremental2 & Synthetic\_Incremental3 & Synthetic\_Reoccurring \\
+\midrule
+$\checkmark$ & $\checkmark$ & $\times$ & \textbf{123.00} & \textbf{123.00} & \textbf{122.50} & \underline{269.00} & 396.50 & \textbf{118.50} & \underline{383.50} \\
+$\checkmark$ & $\times$ & $\times$ & \textbf{123.00} & \textbf{123.00} & \textbf{122.50} & \underline{269.00} & 396.50 & \textbf{118.50} & \underline{383.50} \\
+$\times$ & $\checkmark$ & 0.10 & \textbf{123.00} & \textbf{123.00} & \textbf{122.50} & \underline{269.00} & \textbf{119.00} & \underline{261.50} & 538.00 \\
+$\times$ & $\checkmark$ & 0.25 & \underline{250.50} & \underline{250.50} & \underline{250.00} & \textbf{121.50} & \underline{265.50} & \textbf{118.50} & \textbf{106.00} \\
+$\times$ & $\checkmark$ & 0.35 & \textbf{123.00} & \textbf{123.00} & \textbf{122.50} & \textbf{121.50} & \textbf{119.00} & \textbf{118.50} & \textbf{106.00} \\
+$\times$ & $\checkmark$ & 0.50 & \textbf{123.00} & \textbf{123.00} & \textbf{122.50} & \textbf{121.50} & \textbf{119.00} & \textbf{118.50} & \textbf{106.00} \\
+$\times$ & $\times$ & 0.10 & \textbf{123.00} & \textbf{123.00} & \textbf{122.50} & \underline{269.00} & \textbf{119.00} & \underline{261.50} & 538.00 \\
+$\times$ & $\times$ & 0.25 & \underline{250.50} & \underline{250.50} & \underline{250.00} & \textbf{121.50} & \underline{265.50} & \textbf{118.50} & \textbf{106.00} \\
+$\times$ & $\times$ & 0.35 & \textbf{123.00} & \textbf{123.00} & \textbf{122.50} & \textbf{121.50} & \textbf{119.00} & \textbf{118.50} & \textbf{106.00} \\
+$\times$ & $\times$ & 0.50 & \textbf{123.00} & \textbf{123.00} & \textbf{122.50} & \textbf{121.50} & \textbf{119.00} & \textbf{118.50} & \textbf{106.00} \\
+\bottomrule
+\end{tabular}
+\end{table}
